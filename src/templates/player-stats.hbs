@@ -1,0 +1,221 @@
+<html>
+
+<head>
+  <style>
+    /* common styles */
+    @import url("https://fonts.cdnfonts.com/css/torus");
+
+    .screenshot {
+      font-family: "Torus", sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      width: 600px;
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.4);
+      background: linear-gradient(135deg, #241321, #8a7984);
+    }
+
+    .screenshot>* {}
+
+    .block {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 10px;
+      border-radius: 10px;
+    }
+
+    .horizontal-box {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 10px;
+      padding: 10px;
+    }
+
+    .vertical-box {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      padding: 10px;
+    }
+
+    .grid-box {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      padding: 10px;
+    }
+
+    .with-bg {
+      opacity: 0.2;
+    }
+
+    p {
+      font-size: 14px;
+      color: white;
+      margin: 5px 0 5px 0;
+    }
+
+    p.header {
+      font-size: 30px;
+      font-weight: bold;
+      color: white;
+      margin: 20px;
+    }
+
+    .stress {
+      font-weight: bold;
+      font-size: 20px;
+    }
+
+    .nolinebreaks {
+      white-space: nowrap;
+    }
+
+    .ellipsis {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .thin-seperator {
+      border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+      border-radius: 100px;
+      width: 90%;
+    }
+
+    .thick-seperator {
+      border-bottom: 4px solid rgba(255, 255, 255, 0.8);
+      border-radius: 100px;
+      width: 90%;
+    }
+
+    /* custom styles */
+
+    .avatar-container {
+      align-items: center;
+    }
+
+    .avatar-img {
+      width: 120px;
+      border-radius: 50%;
+    }
+
+    .stat-block {
+      width: 150px;
+    }
+
+    .best-play-container {}
+
+    .best-play-entry {
+      width: 500px;
+      position: relative;
+      z-index: 2;
+    }
+
+    .best-play-entry>*:not(.best-play-bg) {
+      position: relative;
+      z-index: 2;
+      padding: 0;
+    }
+
+    .best-play-bg {
+      opacity: 0.35;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+
+      border-radius: 10px;
+      z-index: 1;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="screenshot">
+
+    <p class="header">Player Stats ({{mode}})</p>
+
+    <div class="thick-seperator"></div>
+
+    <div class="horizontal-box">
+      <div class="avatar-container vertical-box">
+        <img class="avatar-img" src="{{user_details.avatar_url}}" alt="User Avatar" />
+        <p class="stress">{{user_details.username}}</p>
+      </div>
+
+      <div class="basic-stats-container grid-box">
+        <div class="block stat-block">
+          Country
+          <p class="stress">{{user_details.country.name}}</p>
+        </div>
+        <div class="block stat-block">
+          Global Rank
+          <p class="stress">#{{user_details.statistics.global_rank}}</p>
+        </div>
+        <div class="block stat-block">
+          Country Rank
+          <p class="stress">#{{user_details.statistics.country_rank}}</p>
+        </div>
+        <div class="block stat-block">
+          PP
+          <p class="stress">{{user_details.statistics.pp}}</p>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="thin-seperator"></div>
+
+    <div class="best-play-container vertical-box">
+      Best Plays #10
+
+      {{#if best_plays}}
+      {{#each best_plays}}
+      <div class="best-play-entry block">
+        <img class="best-play-bg" src="{{beatmapset.covers.[card@2x]}}" />
+
+        <div class="best-play-entry-title horizontal-box">
+          <p class="stress ellipsis"># {{index}} {{beatmapset.title}}</p>
+          <p class="nolinebreaks">{{beatmapset.artist}}</p>
+        </div>
+
+        <div class="horizontal-box">
+          {{{rank_icon}}}
+          <p>⭐{{difficulty_rating_str}}</p>
+          {{#if mods}}
+          <div class="block horizontal-box" style="padding: 0 10px; background:#a46087ca">
+            <p>
+              {{#each mods}}
+              {{acronym}}
+              {{/each}}
+            </p>
+          </div>
+          {{/if}}
+          <div class="block horizontal-box" style="padding: 0 10px; background:#ffffff50">
+            <p>{{accuracy_100_str}}%</p>
+          </div>
+          <div class="block horizontal-box" style="padding: 0 10px; background:#ffffff50">
+            <p>{{pp_str}}pp</p>
+            <p>→</p>
+            <p>{{weight_pp_str}}pp</p>
+          </div>
+        </div>
+      </div>
+      {{/each}}
+      {{else}}
+      <div class="block best-play-entry">No best plays found</div>
+      {{/if}}
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>
