@@ -122,8 +122,8 @@ export async function apply(ctx: Context, config: Config) {
               ...play,
               index: index + 1,
               difficulty_rating_str: play.beatmap.difficulty_rating.toFixed(2),
-              pp_str: play.pp.toFixed(4),
-              weight_pp_str: play.weight.pp.toFixed(4),
+              pp_str: play.pp.toFixed(2),
+              weight_pp_str: play.weight.pp.toFixed(2),
               accuracy_100_str: (play.accuracy * 100).toFixed(2),
             }
           }),

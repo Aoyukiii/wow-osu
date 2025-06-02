@@ -1,63 +1,190 @@
 {
   "mode": "osu",
   "user_details": {
-    "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-    "country_code": "CN",
+    "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+    "country_code": "AU",
     "default_group": "default",
-    "id": 29458962,
+    "id": 7562902,
     "is_active": true,
     "is_bot": false,
     "is_deleted": false,
     "is_online": false,
-    "is_supporter": false,
-    "last_visit": "2025-05-30T06:07:59+00:00",
-    "pm_friends_only": false,
+    "is_supporter": true,
+    "last_visit": "2025-06-02T12:12:14+00:00",
+    "pm_friends_only": true,
     "profile_colour": null,
-    "username": "AoYukiii",
-    "cover_url": "https://assets.ppy.sh/user-cover-presets/32/a309de64d21720c1d100620b86045bac383ec0b7e5caee0f36a3b89d842ef926.jpeg",
+    "username": "mrekk",
+    "cover_url": "https://assets.ppy.sh/user-cover-presets/3/32ddb3eb261e38a82067f9ef4ea96c12f6abf8bd228e6413330f9d351420301b.jpeg",
     "discord": null,
-    "has_supported": false,
+    "has_supported": true,
     "interests": null,
-    "join_date": "2022-04-03T07:13:27+00:00",
+    "join_date": "2015-12-13T03:35:49+00:00",
     "location": null,
-    "max_blocks": 100,
-    "max_friends": 500,
+    "max_blocks": 200,
+    "max_friends": 1000,
     "occupation": null,
     "playmode": "osu",
     "playstyle": null,
-    "post_count": 0,
+    "post_count": 76,
     "profile_hue": null,
     "profile_order": [
       "me",
       "recent_activity",
       "top_ranks",
-      "medals",
       "historical",
+      "medals",
       "beatmaps",
       "kudosu"
     ],
-    "title": null,
+    "title": "Limit Breaker",
     "title_url": null,
-    "twitter": null,
+    "twitter": "mrekkosu",
     "website": null,
     "country": {
-      "code": "CN",
-      "name": "China"
+      "code": "AU",
+      "name": "Australia"
     },
     "cover": {
-      "custom_url": null,
-      "url": "https://assets.ppy.sh/user-cover-presets/32/a309de64d21720c1d100620b86045bac383ec0b7e5caee0f36a3b89d842ef926.jpeg",
-      "id": "32"
+      "custom_url": "https://assets.ppy.sh/user-profile-covers/7562902/3ec2aadc2008ec95b14a81174dc98a6840401f09715a6df8879866242564dd29.jpeg",
+      "url": "https://assets.ppy.sh/user-cover-presets/3/32ddb3eb261e38a82067f9ef4ea96c12f6abf8bd228e6413330f9d351420301b.jpeg",
+      "id": "3"
     },
     "kudosu": {
-      "available": 0,
-      "total": 0
+      "available": 5,
+      "total": 5
     },
     "account_history": [],
     "active_tournament_banner": null,
     "active_tournament_banners": [],
-    "badges": [],
-    "beatmap_playcounts_count": 237,
+    "badges": [
+      {
+        "awarded_at": "2024-12-08T04:25:58+00:00",
+        "description": "osu! World Cup 2024 3rd Place (Australia)",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/owc2024-3rd@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/owc2024-3rd.png",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/OWC/2024"
+      },
+      {
+        "awarded_at": "2024-05-06T16:09:08+00:00",
+        "description": "SSOT 2024 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/SSOT2024@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/SSOT2024.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1866151?n=1"
+      },
+      {
+        "awarded_at": "2024-04-09T03:47:39+00:00",
+        "description": "Hippo Cup 7 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/hippocup7@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/hippocup7.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1864006"
+      },
+      {
+        "awarded_at": "2024-04-09T02:52:48+00:00",
+        "description": "APAC Mammoth Mayhem 2024 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/mammoth_mayhem_24@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/mammoth_mayhem_24.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1854629"
+      },
+      {
+        "awarded_at": "2023-12-30T17:42:17+00:00",
+        "description": "Kay and YokesPai's Scramble 2023 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/kays2023@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/kays2023.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1840989"
+      },
+      {
+        "awarded_at": "2023-12-03T07:28:12+00:00",
+        "description": "osu! World Cup 2023 3rd Place (Australia)",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/owc2023-3rd@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/owc2023-3rd.png",
+        "url": "https://osu.ppy.sh/wiki/Tournaments/OWC/2023"
+      },
+      {
+        "awarded_at": "2023-08-02T07:37:42+00:00",
+        "description": "The Roundtable II 1v1 Winner",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/roundtable2-2023@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/roundtable2-2023.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1789714"
+      },
+      {
+        "awarded_at": "2023-06-02T12:49:36+00:00",
+        "description": "Corsace Closed 2023 Winner",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/corclosed-2023@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/corclosed-2023.png",
+        "url": ""
+      },
+      {
+        "awarded_at": "2022-10-08T03:47:35+00:00",
+        "description": "Corsace Open 2022 Champion",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/corsace-open-22@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/corsace-open-22.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1607468?n=1"
+      },
+      {
+        "awarded_at": "2022-08-02T18:15:27+00:00",
+        "description": "The Perennial 2022 2nd Place",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/tp-2-2022@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/tp-2-2022.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1565380?n=1"
+      },
+      {
+        "awarded_at": "2022-05-30T12:10:09+00:00",
+        "description": "Hitomi's Trifecta Tournament Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/htt-2022@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/htt-2022.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1524837?n=1"
+      },
+      {
+        "awarded_at": "2021-11-29T15:47:40+00:00",
+        "description": "AU/NZ osu! Tournament 8 Winter Winner",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/anzt8w-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/anzt8w-2021.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1346048?n=1"
+      },
+      {
+        "awarded_at": "2021-11-29T15:47:22+00:00",
+        "description": "osu! Asia Oceania Tournament 3 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/oaot3-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/oaot3-2021.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1358700?n=1"
+      },
+      {
+        "awarded_at": "2021-11-29T15:47:20+00:00",
+        "description": "Ulat Cup 2021 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/ucup-2-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/ucup-2-2021.png",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/UCUP/2021"
+      },
+      {
+        "awarded_at": "2021-11-29T15:46:54+00:00",
+        "description": "Corsace Open 2021 2nd Place",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/corsace-2nd-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/corsace-2nd-2021.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1364543?n=1"
+      },
+      {
+        "awarded_at": "2021-09-19T21:26:35+00:00",
+        "description": "Yaz's Summer Cup 2021 Winner",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/ysc4-2021.png",
+        "url": "https://osu.ppy.sh/wiki/en/Tournaments/YSC/2021"
+      },
+      {
+        "awarded_at": "2021-08-16T00:18:29+00:00",
+        "description": "Banger Bonanza 2021 Winning Team",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/bangb-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/bangb-2021.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1282642?n=1"
+      },
+      {
+        "awarded_at": "2021-06-29T11:09:18+00:00",
+        "description": "Australian/New Zealand osu! Tournament 8 Summer Winner",
+        "image@2x_url": "https://assets.ppy.sh/profile-badges/anzt8s-2021@2x.png",
+        "image_url": "https://assets.ppy.sh/profile-badges/anzt8s-2021.png",
+        "url": "https://osu.ppy.sh/community/forums/topics/1204722?n=1"
+      }
+    ],
+    "beatmap_playcounts_count": 10102,
     "comments_count": 0,
     "current_season_stats": null,
     "daily_challenge_user_stats": {
@@ -68,1534 +195,2849 @@
       "playcount": 0,
       "top_10p_placements": 0,
       "top_50p_placements": 0,
-      "user_id": 29458962,
+      "user_id": 7562902,
       "weekly_streak_best": 0,
       "weekly_streak_current": 0
     },
-    "favourite_beatmapset_count": 0,
-    "follower_count": 3,
-    "graveyard_beatmapset_count": 0,
+    "favourite_beatmapset_count": 1,
+    "follower_count": 92108,
+    "graveyard_beatmapset_count": 38,
     "groups": [],
     "guest_beatmapset_count": 0,
-    "loved_beatmapset_count": 0,
-    "mapping_follower_count": 0,
+    "loved_beatmapset_count": 1,
+    "mapping_follower_count": 7411,
     "monthly_playcounts": [
       {
-        "start_date": "2022-04-01",
-        "count": 4
+        "start_date": "2015-12-01",
+        "count": 257
       },
       {
-        "start_date": "2023-09-01",
-        "count": 268
+        "start_date": "2016-01-01",
+        "count": 1783
       },
       {
-        "start_date": "2023-10-01",
-        "count": 127
+        "start_date": "2016-02-01",
+        "count": 1980
       },
       {
-        "start_date": "2023-11-01",
-        "count": 19
+        "start_date": "2016-03-01",
+        "count": 1560
       },
       {
-        "start_date": "2023-12-01",
-        "count": 72
+        "start_date": "2016-04-01",
+        "count": 905
       },
       {
-        "start_date": "2024-01-01",
-        "count": 110
+        "start_date": "2016-05-01",
+        "count": 504
       },
       {
-        "start_date": "2024-02-01",
-        "count": 2
+        "start_date": "2016-06-01",
+        "count": 141
       },
       {
-        "start_date": "2024-03-01",
-        "count": 9
+        "start_date": "2016-07-01",
+        "count": 86
       },
       {
-        "start_date": "2024-06-01",
-        "count": 24
+        "start_date": "2016-08-01",
+        "count": 47
       },
       {
-        "start_date": "2024-07-01",
+        "start_date": "2016-09-01",
+        "count": 41
+      },
+      {
+        "start_date": "2016-10-01",
+        "count": 62
+      },
+      {
+        "start_date": "2016-12-01",
+        "count": 22
+      },
+      {
+        "start_date": "2017-01-01",
+        "count": 582
+      },
+      {
+        "start_date": "2017-02-01",
+        "count": 635
+      },
+      {
+        "start_date": "2017-03-01",
+        "count": 177
+      },
+      {
+        "start_date": "2017-04-01",
+        "count": 29
+      },
+      {
+        "start_date": "2017-06-01",
+        "count": 59
+      },
+      {
+        "start_date": "2017-07-01",
+        "count": 34
+      },
+      {
+        "start_date": "2017-08-01",
+        "count": 6
+      },
+      {
+        "start_date": "2017-09-01",
+        "count": 126
+      },
+      {
+        "start_date": "2017-10-01",
+        "count": 1754
+      },
+      {
+        "start_date": "2017-11-01",
+        "count": 1948
+      },
+      {
+        "start_date": "2017-12-01",
+        "count": 2390
+      },
+      {
+        "start_date": "2018-01-01",
+        "count": 4272
+      },
+      {
+        "start_date": "2018-02-01",
+        "count": 2280
+      },
+      {
+        "start_date": "2018-03-01",
+        "count": 1584
+      },
+      {
+        "start_date": "2018-04-01",
         "count": 1
       },
       {
+        "start_date": "2019-04-01",
+        "count": 684
+      },
+      {
+        "start_date": "2019-05-01",
+        "count": 3001
+      },
+      {
+        "start_date": "2019-06-01",
+        "count": 3555
+      },
+      {
+        "start_date": "2019-07-01",
+        "count": 3120
+      },
+      {
+        "start_date": "2019-08-01",
+        "count": 2871
+      },
+      {
+        "start_date": "2019-09-01",
+        "count": 3631
+      },
+      {
+        "start_date": "2019-10-01",
+        "count": 4614
+      },
+      {
+        "start_date": "2019-11-01",
+        "count": 1481
+      },
+      {
+        "start_date": "2019-12-01",
+        "count": 2819
+      },
+      {
+        "start_date": "2020-01-01",
+        "count": 1422
+      },
+      {
+        "start_date": "2020-02-01",
+        "count": 1050
+      },
+      {
+        "start_date": "2020-03-01",
+        "count": 696
+      },
+      {
+        "start_date": "2020-04-01",
+        "count": 295
+      },
+      {
+        "start_date": "2020-05-01",
+        "count": 4453
+      },
+      {
+        "start_date": "2020-06-01",
+        "count": 5060
+      },
+      {
+        "start_date": "2020-07-01",
+        "count": 5771
+      },
+      {
+        "start_date": "2020-08-01",
+        "count": 4714
+      },
+      {
+        "start_date": "2020-09-01",
+        "count": 5532
+      },
+      {
+        "start_date": "2020-10-01",
+        "count": 4666
+      },
+      {
+        "start_date": "2020-11-01",
+        "count": 4096
+      },
+      {
+        "start_date": "2020-12-01",
+        "count": 4922
+      },
+      {
+        "start_date": "2021-01-01",
+        "count": 2814
+      },
+      {
+        "start_date": "2021-02-01",
+        "count": 2020
+      },
+      {
+        "start_date": "2021-03-01",
+        "count": 1219
+      },
+      {
+        "start_date": "2021-04-01",
+        "count": 3703
+      },
+      {
+        "start_date": "2021-05-01",
+        "count": 3436
+      },
+      {
+        "start_date": "2021-06-01",
+        "count": 5067
+      },
+      {
+        "start_date": "2021-07-01",
+        "count": 3868
+      },
+      {
+        "start_date": "2021-08-01",
+        "count": 1442
+      },
+      {
+        "start_date": "2021-09-01",
+        "count": 1798
+      },
+      {
+        "start_date": "2021-10-01",
+        "count": 2460
+      },
+      {
+        "start_date": "2021-11-01",
+        "count": 3392
+      },
+      {
+        "start_date": "2021-12-01",
+        "count": 2991
+      },
+      {
+        "start_date": "2022-01-01",
+        "count": 2030
+      },
+      {
+        "start_date": "2022-02-01",
+        "count": 1527
+      },
+      {
+        "start_date": "2022-03-01",
+        "count": 908
+      },
+      {
+        "start_date": "2022-04-01",
+        "count": 1300
+      },
+      {
+        "start_date": "2022-05-01",
+        "count": 1708
+      },
+      {
+        "start_date": "2022-06-01",
+        "count": 1469
+      },
+      {
+        "start_date": "2022-07-01",
+        "count": 2418
+      },
+      {
+        "start_date": "2022-08-01",
+        "count": 2290
+      },
+      {
+        "start_date": "2022-09-01",
+        "count": 1391
+      },
+      {
+        "start_date": "2022-10-01",
+        "count": 4029
+      },
+      {
+        "start_date": "2022-11-01",
+        "count": 2854
+      },
+      {
+        "start_date": "2022-12-01",
+        "count": 2415
+      },
+      {
+        "start_date": "2023-01-01",
+        "count": 1280
+      },
+      {
+        "start_date": "2023-02-01",
+        "count": 1312
+      },
+      {
+        "start_date": "2023-03-01",
+        "count": 1262
+      },
+      {
+        "start_date": "2023-04-01",
+        "count": 2040
+      },
+      {
+        "start_date": "2023-05-01",
+        "count": 1370
+      },
+      {
+        "start_date": "2023-06-01",
+        "count": 1759
+      },
+      {
+        "start_date": "2023-07-01",
+        "count": 2128
+      },
+      {
+        "start_date": "2023-08-01",
+        "count": 3958
+      },
+      {
+        "start_date": "2023-09-01",
+        "count": 2946
+      },
+      {
+        "start_date": "2023-10-01",
+        "count": 2794
+      },
+      {
+        "start_date": "2023-11-01",
+        "count": 3809
+      },
+      {
+        "start_date": "2023-12-01",
+        "count": 3154
+      },
+      {
+        "start_date": "2024-01-01",
+        "count": 3864
+      },
+      {
+        "start_date": "2024-02-01",
+        "count": 2355
+      },
+      {
+        "start_date": "2024-03-01",
+        "count": 2754
+      },
+      {
+        "start_date": "2024-04-01",
+        "count": 3184
+      },
+      {
+        "start_date": "2024-05-01",
+        "count": 3946
+      },
+      {
+        "start_date": "2024-06-01",
+        "count": 2143
+      },
+      {
+        "start_date": "2024-07-01",
+        "count": 2015
+      },
+      {
+        "start_date": "2024-08-01",
+        "count": 3532
+      },
+      {
+        "start_date": "2024-09-01",
+        "count": 1177
+      },
+      {
+        "start_date": "2024-10-01",
+        "count": 3392
+      },
+      {
+        "start_date": "2024-11-01",
+        "count": 3099
+      },
+      {
+        "start_date": "2024-12-01",
+        "count": 2991
+      },
+      {
+        "start_date": "2025-01-01",
+        "count": 2517
+      },
+      {
+        "start_date": "2025-02-01",
+        "count": 1880
+      },
+      {
+        "start_date": "2025-03-01",
+        "count": 2622
+      },
+      {
+        "start_date": "2025-04-01",
+        "count": 1029
+      },
+      {
         "start_date": "2025-05-01",
-        "count": 755
+        "count": 2344
+      },
+      {
+        "start_date": "2025-06-01",
+        "count": 84
       }
     ],
     "nominated_beatmapset_count": 0,
     "page": {
-      "html": "",
-      "raw": ""
+      "html": "<div class='bbcode bbcode--profile-page'><center><iframe class=\"u-embed-wide u-embed-wide--bbcode\" src=\"https://www.youtube.com/embed/S1qiJPbsIjs?rel=0\" allowfullscreen=\"\"></iframe></center><br /><br /><center><div class=\"imagemap\"><img class=\"imagemap__image\" loading=\"lazy\" src=\"https://i.ppy.sh/56d0bac4ff9767c51aea57c0543da07d51b844a5/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313332353333323933383231363137373637352f313337343236393536383233343638383534332f494d475f343333342e706e673f65783d36383264366663352669733d363832633165343526686d3d62643531383038646539616636663436623732323638353035613033386431653461353937633264643362326636353036643066333936646235643163626639263d26666f726d61743d77656270267175616c6974793d6c6f73736c6573732677696474683d393238266865696768743d393136\" width=\"928\" height=\"916\" alt=\"68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f313332353333323933383231363137373637352f313337343236393536383233343638383534332f494d475f343333342e706e673f65783d36383264366663352669733d363832633165343526686d3d62643531383038646539616636663436623732323638353035613033386431653461353937633264643362326636353036643066333936646235643163626639263d26666f726d61743d77656270267175616c6974793d6c6f73736c6573732677696474683d393238266865696768743d393136\" /><a class=\"imagemap__link\" href=\"https://osu.ppy.sh/users/30382955\" style=\"left:0%;top:22.1616%;width:56.1422%;height:76.2009%;\" title=\"hugon\"></a><a class=\"imagemap__link\" href=\"https://osu.ppy.sh/users/7562902/osu\" style=\"left:55.819%;top:23.2533%;width:44.181%;height:75.9825%;\" title=\"mrekk\"></a></div></center></div>",
+      "raw": "[centre][youtube]S1qiJPbsIjs[/youtube][/centre]\n\n[centre][imagemap]\nhttps://media.discordapp.net/attachments/1325332938216177675/1374269568234688543/IMG_4334.png?ex=682d6fc5&is=682c1e45&hm=bd51808de9af6f46b72268505a038d1e4a597c2dd3b2f6506d0f396db5d1cbf9&=&format=webp&quality=lossless&width=928&height=916\n0 22.1616 56.1422 76.2009 https://osu.ppy.sh/users/30382955 hugon\n55.819 23.2533 44.181 75.9825 https://osu.ppy.sh/users/7562902/osu mrekk\n[/imagemap][/centre]"
     },
     "pending_beatmapset_count": 0,
-    "previous_usernames": [],
+    "previous_usernames": [
+      "EliteBrandon365",
+      "mReKk"
+    ],
     "rank_highest": {
-      "rank": 799829,
-      "updated_at": "2025-05-30T05:52:50Z"
+      "rank": 1,
+      "updated_at": "2021-04-08T04:48:54Z"
     },
-    "ranked_beatmapset_count": 0,
-    "replays_watched_counts": [],
-    "scores_best_count": 136,
-    "scores_first_count": 0,
-    "scores_pinned_count": 0,
-    "scores_recent_count": 13,
-    "statistics": {
-      "count_100": 33380,
-      "count_300": 177253,
-      "count_50": 4810,
-      "count_miss": 9255,
-      "level": {
-        "current": 43,
-        "progress": 51
+    "ranked_beatmapset_count": 1,
+    "replays_watched_counts": [
+      {
+        "start_date": "2016-02-01",
+        "count": 2
       },
-      "global_rank": 799829,
+      {
+        "start_date": "2016-04-01",
+        "count": 2
+      },
+      {
+        "start_date": "2017-01-01",
+        "count": 2
+      },
+      {
+        "start_date": "2017-08-01",
+        "count": 1
+      },
+      {
+        "start_date": "2017-12-01",
+        "count": 5
+      },
+      {
+        "start_date": "2018-01-01",
+        "count": 17
+      },
+      {
+        "start_date": "2018-02-01",
+        "count": 26
+      },
+      {
+        "start_date": "2018-03-01",
+        "count": 26
+      },
+      {
+        "start_date": "2018-04-01",
+        "count": 12
+      },
+      {
+        "start_date": "2018-05-01",
+        "count": 19
+      },
+      {
+        "start_date": "2018-06-01",
+        "count": 25
+      },
+      {
+        "start_date": "2018-07-01",
+        "count": 18
+      },
+      {
+        "start_date": "2018-08-01",
+        "count": 7
+      },
+      {
+        "start_date": "2018-09-01",
+        "count": 8
+      },
+      {
+        "start_date": "2018-10-01",
+        "count": 5
+      },
+      {
+        "start_date": "2018-11-01",
+        "count": 4
+      },
+      {
+        "start_date": "2018-12-01",
+        "count": 3
+      },
+      {
+        "start_date": "2019-01-01",
+        "count": 1
+      },
+      {
+        "start_date": "2019-02-01",
+        "count": 3
+      },
+      {
+        "start_date": "2019-03-01",
+        "count": 1
+      },
+      {
+        "start_date": "2019-04-01",
+        "count": 3
+      },
+      {
+        "start_date": "2019-05-01",
+        "count": 46
+      },
+      {
+        "start_date": "2019-06-01",
+        "count": 59
+      },
+      {
+        "start_date": "2019-07-01",
+        "count": 112
+      },
+      {
+        "start_date": "2019-08-01",
+        "count": 85
+      },
+      {
+        "start_date": "2019-09-01",
+        "count": 193
+      },
+      {
+        "start_date": "2019-10-01",
+        "count": 867
+      },
+      {
+        "start_date": "2019-11-01",
+        "count": 511
+      },
+      {
+        "start_date": "2019-12-01",
+        "count": 1725
+      },
+      {
+        "start_date": "2020-01-01",
+        "count": 3134
+      },
+      {
+        "start_date": "2020-02-01",
+        "count": 1818
+      },
+      {
+        "start_date": "2020-03-01",
+        "count": 1621
+      },
+      {
+        "start_date": "2020-04-01",
+        "count": 1568
+      },
+      {
+        "start_date": "2020-05-01",
+        "count": 1165
+      },
+      {
+        "start_date": "2020-06-01",
+        "count": 4094
+      },
+      {
+        "start_date": "2020-07-01",
+        "count": 11181
+      },
+      {
+        "start_date": "2020-08-01",
+        "count": 23305
+      },
+      {
+        "start_date": "2020-09-01",
+        "count": 27598
+      },
+      {
+        "start_date": "2020-10-01",
+        "count": 31574
+      },
+      {
+        "start_date": "2020-11-01",
+        "count": 37924
+      },
+      {
+        "start_date": "2020-12-01",
+        "count": 40820
+      },
+      {
+        "start_date": "2021-01-01",
+        "count": 51068
+      },
+      {
+        "start_date": "2021-02-01",
+        "count": 48860
+      },
+      {
+        "start_date": "2021-03-01",
+        "count": 53200
+      },
+      {
+        "start_date": "2021-04-01",
+        "count": 69063
+      },
+      {
+        "start_date": "2021-05-01",
+        "count": 83825
+      },
+      {
+        "start_date": "2021-06-01",
+        "count": 111866
+      },
+      {
+        "start_date": "2021-07-01",
+        "count": 131389
+      },
+      {
+        "start_date": "2021-08-01",
+        "count": 123175
+      },
+      {
+        "start_date": "2021-09-01",
+        "count": 109884
+      },
+      {
+        "start_date": "2021-10-01",
+        "count": 109363
+      },
+      {
+        "start_date": "2021-11-01",
+        "count": 92082
+      },
+      {
+        "start_date": "2021-12-01",
+        "count": 87348
+      },
+      {
+        "start_date": "2022-01-01",
+        "count": 81202
+      },
+      {
+        "start_date": "2022-02-01",
+        "count": 70666
+      },
+      {
+        "start_date": "2022-03-01",
+        "count": 96534
+      },
+      {
+        "start_date": "2022-04-01",
+        "count": 82916
+      },
+      {
+        "start_date": "2022-05-01",
+        "count": 79024
+      },
+      {
+        "start_date": "2022-06-01",
+        "count": 77739
+      },
+      {
+        "start_date": "2022-07-01",
+        "count": 79077
+      },
+      {
+        "start_date": "2022-08-01",
+        "count": 82577
+      },
+      {
+        "start_date": "2022-09-01",
+        "count": 64237
+      },
+      {
+        "start_date": "2022-10-01",
+        "count": 77131
+      },
+      {
+        "start_date": "2022-11-01",
+        "count": 73573
+      },
+      {
+        "start_date": "2022-12-01",
+        "count": 73904
+      },
+      {
+        "start_date": "2023-01-01",
+        "count": 70150
+      },
+      {
+        "start_date": "2023-02-01",
+        "count": 63980
+      },
+      {
+        "start_date": "2023-03-01",
+        "count": 71253
+      },
+      {
+        "start_date": "2023-04-01",
+        "count": 63838
+      },
+      {
+        "start_date": "2023-05-01",
+        "count": 61818
+      },
+      {
+        "start_date": "2023-06-01",
+        "count": 61440
+      },
+      {
+        "start_date": "2023-07-01",
+        "count": 61326
+      },
+      {
+        "start_date": "2023-08-01",
+        "count": 56859
+      },
+      {
+        "start_date": "2023-09-01",
+        "count": 52996
+      },
+      {
+        "start_date": "2023-10-01",
+        "count": 48768
+      },
+      {
+        "start_date": "2023-11-01",
+        "count": 43826
+      },
+      {
+        "start_date": "2023-12-01",
+        "count": 52571
+      },
+      {
+        "start_date": "2024-01-01",
+        "count": 66214
+      },
+      {
+        "start_date": "2024-02-01",
+        "count": 57160
+      },
+      {
+        "start_date": "2024-03-01",
+        "count": 59062
+      },
+      {
+        "start_date": "2024-04-01",
+        "count": 54554
+      },
+      {
+        "start_date": "2024-05-01",
+        "count": 58306
+      },
+      {
+        "start_date": "2024-06-01",
+        "count": 55075
+      },
+      {
+        "start_date": "2024-07-01",
+        "count": 59530
+      },
+      {
+        "start_date": "2024-08-01",
+        "count": 73044
+      },
+      {
+        "start_date": "2024-09-01",
+        "count": 72267
+      },
+      {
+        "start_date": "2024-10-01",
+        "count": 69506
+      },
+      {
+        "start_date": "2024-11-01",
+        "count": 68356
+      },
+      {
+        "start_date": "2024-12-01",
+        "count": 62618
+      },
+      {
+        "start_date": "2025-01-01",
+        "count": 81240
+      },
+      {
+        "start_date": "2025-02-01",
+        "count": 69581
+      },
+      {
+        "start_date": "2025-03-01",
+        "count": 68909
+      },
+      {
+        "start_date": "2025-04-01",
+        "count": 65969
+      },
+      {
+        "start_date": "2025-05-01",
+        "count": 65769
+      },
+      {
+        "start_date": "2025-06-01",
+        "count": 3101
+      }
+    ],
+    "scores_best_count": 200,
+    "scores_first_count": 576,
+    "scores_pinned_count": 14,
+    "scores_recent_count": 28,
+    "statistics": {
+      "count_100": 4901241,
+      "count_300": 54669270,
+      "count_50": 502473,
+      "count_miss": 2086760,
+      "level": {
+        "current": 108,
+        "progress": 1
+      },
+      "global_rank": 1,
       "global_rank_exp": null,
-      "pp": 1029.79,
+      "pp": 32396,
       "pp_exp": 0,
-      "ranked_score": 208147129,
-      "hit_accuracy": 91.8015,
-      "play_count": 1241,
-      "play_time": 86238,
-      "total_score": 539997130,
-      "total_hits": 215443,
-      "maximum_combo": 736,
-      "replays_watched_by_others": 0,
+      "ranked_score": 123652980836,
+      "hit_accuracy": 98.1664,
+      "play_count": 218353,
+      "play_time": 10233009,
+      "total_score": 828678346719,
+      "total_hits": 60072984,
+      "maximum_combo": 8749,
+      "replays_watched_by_others": 4018219,
       "is_ranked": true,
       "grade_counts": {
-        "ss": 1,
-        "ssh": 0,
-        "s": 9,
-        "sh": 0,
-        "a": 57
+        "ss": 30,
+        "ssh": 43,
+        "s": 253,
+        "sh": 1340,
+        "a": 2155
       },
-      "country_rank": 11671,
+      "country_rank": 1,
       "rank": {
-        "country": 11671
+        "country": 1
       }
     },
-    "support_level": 0,
-    "team": null,
+    "support_level": 2,
+    "team": {
+      "flag_url": "https://assets.ppy.sh/teams/flag/66/27a993fb7dc86d199ef7234db935d1002feb2a39d30b126d2d6fb818f4791d36.gif",
+      "id": 66,
+      "name": "trappin",
+      "short_name": "4444"
+    },
     "user_achievements": [
       {
-        "achieved_at": "2025-05-30T05:50:03Z",
-        "achievement_id": 59
+        "achieved_at": "2025-05-12T02:39:21Z",
+        "achievement_id": 334
       },
       {
-        "achieved_at": "2025-05-28T15:56:00Z",
-        "achievement_id": 63
+        "achieved_at": "2025-05-06T01:23:46Z",
+        "achievement_id": 340
       },
       {
-        "achieved_at": "2025-05-28T14:28:01Z",
+        "achieved_at": "2025-03-19T08:11:34Z",
+        "achievement_id": 155
+      },
+      {
+        "achieved_at": "2025-02-28T15:00:37Z",
+        "achievement_id": 152
+      },
+      {
+        "achieved_at": "2024-12-18T13:37:49Z",
+        "achievement_id": 280
+      },
+      {
+        "achieved_at": "2024-08-31T20:46:52Z",
+        "achievement_id": 299
+      },
+      {
+        "achieved_at": "2024-03-13T08:32:57Z",
+        "achievement_id": 145
+      },
+      {
+        "achieved_at": "2024-02-14T08:59:11Z",
+        "achievement_id": 328
+      },
+      {
+        "achieved_at": "2023-11-15T17:52:06Z",
+        "achievement_id": 319
+      },
+      {
+        "achieved_at": "2023-10-10T13:58:31Z",
+        "achievement_id": 321
+      },
+      {
+        "achieved_at": "2023-08-24T23:52:57Z",
+        "achievement_id": 134
+      },
+      {
+        "achieved_at": "2023-08-11T10:36:36Z",
+        "achievement_id": 301
+      },
+      {
+        "achieved_at": "2023-07-31T02:15:55Z",
         "achievement_id": 303
       },
       {
-        "achieved_at": "2025-05-25T10:46:47Z",
-        "achievement_id": 46
+        "achieved_at": "2023-03-18T11:13:46Z",
+        "achievement_id": 224
       },
       {
-        "achieved_at": "2025-05-23T11:59:52Z",
-        "achievement_id": 58
+        "achieved_at": "2023-02-24T13:43:09Z",
+        "achievement_id": 245
       },
       {
-        "achieved_at": "2025-05-23T06:35:03Z",
-        "achievement_id": 1
+        "achieved_at": "2022-12-05T11:19:57Z",
+        "achievement_id": 80
       },
       {
-        "achieved_at": "2024-03-29T14:08:53Z",
-        "achievement_id": 89
+        "achieved_at": "2022-12-05T11:18:45Z",
+        "achievement_id": 81
       },
       {
-        "achieved_at": "2023-10-02T16:21:56Z",
-        "achievement_id": 137
+        "achieved_at": "2022-11-29T02:58:59Z",
+        "achievement_id": 297
       },
       {
-        "achieved_at": "2023-10-02T16:21:56Z",
-        "achievement_id": 122
-      },
-      {
-        "achieved_at": "2023-09-22T12:41:03Z",
-        "achievement_id": 64
-      },
-      {
-        "achieved_at": "2023-09-22T12:35:37Z",
-        "achievement_id": 57
-      },
-      {
-        "achieved_at": "2023-09-21T07:32:43Z",
+        "achieved_at": "2022-11-25T07:11:30Z",
         "achievement_id": 123
       },
       {
-        "achieved_at": "2023-09-19T14:33:17Z",
-        "achievement_id": 88
+        "achieved_at": "2022-10-24T05:15:54Z",
+        "achievement_id": 114
       },
       {
-        "achieved_at": "2023-09-19T13:38:53Z",
-        "achievement_id": 111
+        "achieved_at": "2022-10-22T09:40:18Z",
+        "achievement_id": 47
       },
       {
-        "achieved_at": "2023-09-19T11:48:34Z",
-        "achievement_id": 176
+        "achieved_at": "2022-10-22T09:06:01Z",
+        "achievement_id": 91
       },
       {
-        "achieved_at": "2023-09-15T16:58:18Z",
+        "achieved_at": "2022-07-02T09:21:10Z",
+        "achievement_id": 272
+      },
+      {
+        "achieved_at": "2022-06-25T06:35:29Z",
+        "achievement_id": 201
+      },
+      {
+        "achieved_at": "2022-03-06T22:43:04Z",
+        "achievement_id": 148
+      },
+      {
+        "achieved_at": "2022-01-03T10:26:11Z",
+        "achievement_id": 161
+      },
+      {
+        "achieved_at": "2021-07-03T04:48:37Z",
+        "achievement_id": 79
+      },
+      {
+        "achieved_at": "2021-06-18T11:08:47Z",
+        "achievement_id": 90
+      },
+      {
+        "achieved_at": "2021-04-11T13:16:54Z",
+        "achievement_id": 113
+      },
+      {
+        "achieved_at": "2021-03-27T22:53:03Z",
+        "achievement_id": 112
+      },
+      {
+        "achieved_at": "2021-03-27T22:36:50Z",
+        "achievement_id": 89
+      },
+      {
+        "achieved_at": "2020-09-29T10:11:54Z",
+        "achievement_id": 156
+      },
+      {
+        "achieved_at": "2020-08-08T05:08:55Z",
+        "achievement_id": 243
+      },
+      {
+        "achieved_at": "2020-07-22T02:42:13Z",
+        "achievement_id": 31
+      },
+      {
+        "achieved_at": "2020-06-20T02:02:53Z",
+        "achievement_id": 244
+      },
+      {
+        "achieved_at": "2020-06-20T01:58:06Z",
+        "achievement_id": 242
+      },
+      {
+        "achieved_at": "2020-05-29T11:05:15Z",
+        "achievement_id": 38
+      },
+      {
+        "achieved_at": "2020-05-26T07:46:26Z",
+        "achievement_id": 222
+      },
+      {
+        "achieved_at": "2020-02-12T09:46:07Z",
+        "achievement_id": 28
+      },
+      {
+        "achieved_at": "2020-01-15T06:12:21Z",
+        "achievement_id": 16
+      },
+      {
+        "achieved_at": "2020-01-04T02:15:04Z",
+        "achievement_id": 221
+      },
+      {
+        "achieved_at": "2019-10-01T05:51:01Z",
+        "achievement_id": 43
+      },
+      {
+        "achieved_at": "2019-08-18T03:47:52Z",
+        "achievement_id": 70
+      },
+      {
+        "achieved_at": "2019-08-17T07:57:34Z",
+        "achievement_id": 97
+      },
+      {
+        "achieved_at": "2019-07-15T00:32:01Z",
+        "achievement_id": 73
+      },
+      {
+        "achieved_at": "2019-07-11T23:36:07Z",
+        "achievement_id": 96
+      },
+      {
+        "achieved_at": "2019-07-07T04:26:39Z",
+        "achievement_id": 168
+      },
+      {
+        "achieved_at": "2019-07-04T01:18:41Z",
+        "achievement_id": 53
+      },
+      {
+        "achieved_at": "2019-06-09T23:54:37Z",
+        "achievement_id": 173
+      },
+      {
+        "achieved_at": "2019-06-09T22:24:12Z",
         "achievement_id": 121
       },
       {
-        "achieved_at": "2023-09-15T16:37:46Z",
-        "achievement_id": 55
+        "achieved_at": "2019-06-07T07:55:10Z",
+        "achievement_id": 135
       },
       {
-        "achieved_at": "2023-09-15T16:23:40Z",
-        "achievement_id": 56
+        "achieved_at": "2019-05-18T08:35:40Z",
+        "achievement_id": 22
       },
       {
-        "achieved_at": "2023-09-14T14:14:07Z",
+        "achieved_at": "2018-03-18T02:57:00Z",
+        "achievement_id": 52
+      },
+      {
+        "achieved_at": "2018-03-03T05:45:39Z",
+        "achievement_id": 69
+      },
+      {
+        "achieved_at": "2018-02-17T02:47:26Z",
+        "achievement_id": 51
+      },
+      {
+        "achieved_at": "2018-01-27T04:14:00Z",
+        "achievement_id": 144
+      },
+      {
+        "achieved_at": "2018-01-26T22:55:00Z",
+        "achievement_id": 178
+      },
+      {
+        "achieved_at": "2018-01-10T23:58:31Z",
+        "achievement_id": 137
+      },
+      {
+        "achieved_at": "2018-01-10T07:24:48Z",
+        "achievement_id": 141
+      },
+      {
+        "achieved_at": "2018-01-10T07:21:37Z",
+        "achievement_id": 140
+      },
+      {
+        "achieved_at": "2018-01-10T07:19:55Z",
+        "achievement_id": 139
+      },
+      {
+        "achieved_at": "2018-01-09T07:36:31Z",
+        "achievement_id": 138
+      },
+      {
+        "achieved_at": "2018-01-05T10:26:48Z",
+        "achievement_id": 125
+      },
+      {
+        "achieved_at": "2018-01-05T09:19:36Z",
+        "achievement_id": 111
+      },
+      {
+        "achieved_at": "2018-01-03T06:33:15Z",
+        "achievement_id": 62
+      },
+      {
+        "achieved_at": "2018-01-03T05:16:55Z",
+        "achievement_id": 21
+      },
+      {
+        "achieved_at": "2018-01-01T02:59:23Z",
+        "achievement_id": 46
+      },
+      {
+        "achieved_at": "2017-12-04T08:15:07Z",
+        "achievement_id": 133
+      },
+      {
+        "achieved_at": "2017-12-02T00:00:24Z",
+        "achievement_id": 176
+      },
+      {
+        "achieved_at": "2017-12-01T00:51:35Z",
+        "achievement_id": 68
+      },
+      {
+        "achieved_at": "2017-11-17T21:50:41Z",
+        "achievement_id": 88
+      },
+      {
+        "achieved_at": "2017-11-16T09:02:46Z",
         "achievement_id": 87
       },
       {
-        "achieved_at": "2023-09-14T14:14:07Z",
+        "achieved_at": "2017-11-15T06:19:54Z",
+        "achievement_id": 177
+      },
+      {
+        "achieved_at": "2017-11-15T06:14:35Z",
+        "achievement_id": 136
+      },
+      {
+        "achieved_at": "2017-11-13T09:25:31Z",
+        "achievement_id": 50
+      },
+      {
+        "achieved_at": "2017-10-25T06:01:37Z",
+        "achievement_id": 67
+      },
+      {
+        "achieved_at": "2017-03-05T01:42:01Z",
+        "achievement_id": 126
+      },
+      {
+        "achieved_at": "2017-02-03T23:26:44Z",
+        "achievement_id": 65
+      },
+      {
+        "achieved_at": "2017-01-24T22:58:43Z",
+        "achievement_id": 122
+      },
+      {
+        "achieved_at": "2017-01-24T10:41:27Z",
+        "achievement_id": 95
+      },
+      {
+        "achieved_at": "2017-01-21T05:54:29Z",
+        "achievement_id": 72
+      },
+      {
+        "achieved_at": "2017-01-21T03:27:07Z",
+        "achievement_id": 71
+      },
+      {
+        "achieved_at": "2016-12-10T00:57:26Z",
+        "achievement_id": 132
+      },
+      {
+        "achieved_at": "2016-09-26T04:02:11Z",
+        "achievement_id": 127
+      },
+      {
+        "achieved_at": "2016-09-26T03:52:28Z",
+        "achievement_id": 124
+      },
+      {
+        "achieved_at": "2016-08-24T09:26:06Z",
         "achievement_id": 54
+      },
+      {
+        "achieved_at": "2016-08-21T06:13:35Z",
+        "achievement_id": 128
+      },
+      {
+        "achieved_at": "2016-06-11T02:24:32Z",
+        "achievement_id": 57
+      },
+      {
+        "achieved_at": "2016-05-28T07:56:59Z",
+        "achievement_id": 63
+      },
+      {
+        "achieved_at": "2016-05-28T07:56:59Z",
+        "achievement_id": 55
+      },
+      {
+        "achieved_at": "2016-05-12T10:21:34Z",
+        "achievement_id": 64
+      },
+      {
+        "achieved_at": "2016-05-10T06:44:39Z",
+        "achievement_id": 56
+      },
+      {
+        "achieved_at": "2016-05-07T23:24:27Z",
+        "achievement_id": 59
+      },
+      {
+        "achieved_at": "2016-05-07T08:51:47Z",
+        "achievement_id": 61
+      },
+      {
+        "achieved_at": "2016-05-07T08:42:41Z",
+        "achievement_id": 66
+      },
+      {
+        "achieved_at": "2016-05-07T08:42:41Z",
+        "achievement_id": 58
+      },
+      {
+        "achieved_at": "2016-05-05T08:47:06Z",
+        "achievement_id": 60
+      },
+      {
+        "achieved_at": "2016-04-17T06:53:51Z",
+        "achievement_id": 40
+      },
+      {
+        "achieved_at": "2016-04-06T11:37:28Z",
+        "achievement_id": 5
+      },
+      {
+        "achieved_at": "2016-03-23T06:14:08Z",
+        "achievement_id": 20
+      },
+      {
+        "achieved_at": "2016-02-24T05:52:01Z",
+        "achievement_id": 4
+      },
+      {
+        "achieved_at": "2016-02-17T06:52:01Z",
+        "achievement_id": 42
+      },
+      {
+        "achieved_at": "2016-01-23T08:49:30Z",
+        "achievement_id": 3
+      },
+      {
+        "achieved_at": "2016-01-18T03:41:15Z",
+        "achievement_id": 15
+      },
+      {
+        "achieved_at": "2016-01-12T09:15:41Z",
+        "achievement_id": 1
+      },
+      {
+        "achieved_at": "2015-12-24T07:55:10Z",
+        "achievement_id": 39
       }
     ],
     "rank_history": {
       "mode": "osu",
       "data": [
-        1794949, 1796797, 1798743, 1800785, 1802939, 1805038, 1806807, 1808584, 1810369, 1608066,
-        1610620, 1613036, 1615213, 1617427, 1619501, 1621570, 1623797, 1626343, 1628505, 1630544,
-        1632619, 1634773, 1636984, 1639361, 1641945, 1644471, 1646807, 1649169, 1651550, 1653909,
-        1656257, 1658663, 1661058, 1663574, 1665741, 1667897, 1670133, 1672463, 1674951, 1677417,
-        1679628, 1681695, 1683823, 1685896, 1688298, 1690932, 1693389, 1695430, 1697664, 1699822,
-        1702037, 1704478, 1707298, 1709990, 1712424, 1714769, 1717197, 1719670, 1722175, 1725031,
-        1727744, 1730103, 1732459, 1734824, 1737126, 1739659, 1742313, 1744818, 1746890, 1748966,
-        1751097, 1753145, 1755462, 1758111, 1760522, 1762585, 1764655, 1766683, 1768771, 1770958,
-        1773507, 1395347, 1140283, 1056183, 972073, 906867, 907667, 811088, 801591, 799829
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ]
     },
     "rankHistory": {
       "mode": "osu",
       "data": [
-        1794949, 1796797, 1798743, 1800785, 1802939, 1805038, 1806807, 1808584, 1810369, 1608066,
-        1610620, 1613036, 1615213, 1617427, 1619501, 1621570, 1623797, 1626343, 1628505, 1630544,
-        1632619, 1634773, 1636984, 1639361, 1641945, 1644471, 1646807, 1649169, 1651550, 1653909,
-        1656257, 1658663, 1661058, 1663574, 1665741, 1667897, 1670133, 1672463, 1674951, 1677417,
-        1679628, 1681695, 1683823, 1685896, 1688298, 1690932, 1693389, 1695430, 1697664, 1699822,
-        1702037, 1704478, 1707298, 1709990, 1712424, 1714769, 1717197, 1719670, 1722175, 1725031,
-        1727744, 1730103, 1732459, 1734824, 1737126, 1739659, 1742313, 1744818, 1746890, 1748966,
-        1751097, 1753145, 1755462, 1758111, 1760522, 1762585, 1764655, 1766683, 1768771, 1770958,
-        1773507, 1395347, 1140283, 1056183, 972073, 906867, 907667, 811088, 801591, 799829
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ]
     },
-    "ranked_and_approved_beatmapset_count": 0,
+    "ranked_and_approved_beatmapset_count": 1,
     "unranked_beatmapset_count": 0
   },
   "best_plays": [
     {
-      "classic_total_score": 1041344,
+      "classic_total_score": 112320422,
       "preserve": true,
       "processed": true,
       "ranked": true,
       "maximum_statistics": {
-        "great": 275,
-        "legacy_combo_increase": 152
+        "great": 1985,
+        "legacy_combo_increase": 923
       },
       "mods": [
         {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 38,
-        "meh": 1,
-        "miss": 4,
-        "great": 232
-      },
-      "total_score_without_mods": 423210,
-      "beatmap_id": 2014470,
-      "best_id": null,
-      "id": 4913408372,
-      "rank": "B",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.890303,
-      "build_id": null,
-      "ended_at": "2025-05-28T14:19:39Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4844202865,
-      "legacy_total_score": 407520,
-      "max_combo": 97,
-      "passed": true,
-      "pp": 50.2135,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 406282,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 962088,
-        "difficulty_rating": 4.58,
-        "id": 2014470,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 83,
-        "user_id": 4378277,
-        "version": "Insane",
-        "accuracy": 8,
-        "ar": 9,
-        "bpm": 182,
-        "convert": false,
-        "count_circles": 144,
-        "count_sliders": 130,
-        "count_spinners": 1,
-        "cs": 3.6,
-        "deleted_at": null,
-        "drain": 5,
-        "hit_length": 83,
-        "is_scoreable": true,
-        "last_updated": "2019-05-06T00:13:17Z",
-        "mode_int": 0,
-        "passcount": 2712141,
-        "playcount": 13702752,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/2014470",
-        "checksum": "770719aa8368d9bdf45ed428558a8e3e"
-      },
-      "beatmapset": {
-        "artist": "MIMI feat. Hatsune Miku",
-        "artist_unicode": "MIMI feat. 初音ミク",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/962088/covers/cover.jpg?1645788534",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/962088/covers/cover@2x.jpg?1645788534",
-          "card": "https://assets.ppy.sh/beatmaps/962088/covers/card.jpg?1645788534",
-          "card@2x": "https://assets.ppy.sh/beatmaps/962088/covers/card@2x.jpg?1645788534",
-          "list": "https://assets.ppy.sh/beatmaps/962088/covers/list.jpg?1645788534",
-          "list@2x": "https://assets.ppy.sh/beatmaps/962088/covers/list@2x.jpg?1645788534",
-          "slimcover": "https://assets.ppy.sh/beatmaps/962088/covers/slimcover.jpg?1645788534",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/962088/covers/slimcover@2x.jpg?1645788534"
+          "acronym": "DT"
         },
-        "creator": "Log Off Now",
-        "favourite_count": 11070,
-        "genre_id": 5,
-        "hype": null,
-        "id": 962088,
-        "language_id": 3,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 36690588,
-        "preview_url": "//b.ppy.sh/preview/962088.mp3",
-        "source": "",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Marshmary",
-        "title_unicode": "マシュマリー",
-        "track_id": 2079,
-        "user_id": 4378277,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 100,
-        "pp": 50.2135
-      },
-      "index": 1,
-      "difficulty_rating_str": "4.58",
-      "pp_str": "50.2135",
-      "weight_pp_str": "50.2135",
-      "accuracy_100_str": "89.03"
-    },
-    {
-      "classic_total_score": 2114697,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 396,
-        "legacy_combo_increase": 166
-      },
-      "mods": [
         {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 41,
-        "miss": 14,
-        "great": 341
-      },
-      "total_score_without_mods": 423007,
-      "beatmap_id": 814293,
-      "best_id": null,
-      "id": 4921839922,
-      "rank": "B",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.895623,
-      "build_id": null,
-      "ended_at": "2025-05-30T05:44:00Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4845195431,
-      "legacy_total_score": 762040,
-      "max_combo": 119,
-      "passed": true,
-      "pp": 48.5321,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 406087,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 371128,
-        "difficulty_rating": 4.99,
-        "id": 814293,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 132,
-        "user_id": 3495259,
-        "version": "Divine",
-        "accuracy": 8.5,
-        "ar": 9.2,
-        "bpm": 174,
-        "convert": false,
-        "count_circles": 240,
-        "count_sliders": 152,
-        "count_spinners": 4,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 6,
-        "hit_length": 121,
-        "is_scoreable": true,
-        "last_updated": "2015-12-03T14:46:32Z",
-        "mode_int": 0,
-        "passcount": 3754519,
-        "playcount": 21331741,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/814293",
-        "checksum": "3b7561a42b4706ec280bdd4d0afab2dc"
-      },
-      "beatmapset": {
-        "artist": "Station Earth",
-        "artist_unicode": "Station Earth",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/371128/covers/cover.jpg?1650634565",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/371128/covers/cover@2x.jpg?1650634565",
-          "card": "https://assets.ppy.sh/beatmaps/371128/covers/card.jpg?1650634565",
-          "card@2x": "https://assets.ppy.sh/beatmaps/371128/covers/card@2x.jpg?1650634565",
-          "list": "https://assets.ppy.sh/beatmaps/371128/covers/list.jpg?1650634565",
-          "list@2x": "https://assets.ppy.sh/beatmaps/371128/covers/list@2x.jpg?1650634565",
-          "slimcover": "https://assets.ppy.sh/beatmaps/371128/covers/slimcover.jpg?1650634565",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/371128/covers/slimcover@2x.jpg?1650634565"
+          "acronym": "HD"
         },
-        "creator": "Bearizm",
-        "favourite_count": 18697,
-        "genre_id": 10,
-        "hype": null,
-        "id": 371128,
-        "language_id": 2,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 43760804,
-        "preview_url": "//b.ppy.sh/preview/371128.mp3",
-        "source": "",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Cold Green Eyes ft. Roos Denayer",
-        "title_unicode": "Cold Green Eyes ft. Roos Denayer",
-        "track_id": 1861,
-        "user_id": 3495259,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 95,
-        "pp": 46.105495
-      },
-      "index": 2,
-      "difficulty_rating_str": "4.99",
-      "pp_str": "48.5321",
-      "weight_pp_str": "46.1055",
-      "accuracy_100_str": "89.56"
-    },
-    {
-      "classic_total_score": 2104686,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 326,
-        "legacy_combo_increase": 204
-      },
-      "mods": [
         {
           "acronym": "CL"
         }
       ],
       "statistics": {
-        "ok": 25,
+        "ok": 22,
         "miss": 1,
-        "great": 300
+        "great": 1962
       },
-      "total_score_without_mods": 615594,
-      "beatmap_id": 827932,
+      "total_score_without_mods": 781289,
+      "beatmap_id": 5047712,
       "best_id": null,
-      "id": 4903436335,
+      "id": 4746396766,
       "rank": "A",
       "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.945808,
+      "user_id": 7562902,
+      "accuracy": 0.992107,
       "build_id": null,
-      "ended_at": "2025-05-26T13:14:55Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4843035164,
-      "legacy_total_score": 1191144,
-      "max_combo": 206,
-      "passed": true,
-      "pp": 46.4157,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 590970,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 371128,
-        "difficulty_rating": 4.2,
-        "id": 827932,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 132,
-        "user_id": 2407160,
-        "version": "apple's Insane",
-        "accuracy": 7.5,
-        "ar": 9,
-        "bpm": 174,
-        "convert": false,
-        "count_circles": 133,
-        "count_sliders": 190,
-        "count_spinners": 3,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 6,
-        "hit_length": 110,
-        "is_scoreable": true,
-        "last_updated": "2015-12-03T14:46:33Z",
-        "mode_int": 0,
-        "passcount": 3577896,
-        "playcount": 15826571,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/827932",
-        "checksum": "c29b4567c8e831ae1ba140ae5caeda16"
-      },
-      "beatmapset": {
-        "artist": "Station Earth",
-        "artist_unicode": "Station Earth",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/371128/covers/cover.jpg?1650634565",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/371128/covers/cover@2x.jpg?1650634565",
-          "card": "https://assets.ppy.sh/beatmaps/371128/covers/card.jpg?1650634565",
-          "card@2x": "https://assets.ppy.sh/beatmaps/371128/covers/card@2x.jpg?1650634565",
-          "list": "https://assets.ppy.sh/beatmaps/371128/covers/list.jpg?1650634565",
-          "list@2x": "https://assets.ppy.sh/beatmaps/371128/covers/list@2x.jpg?1650634565",
-          "slimcover": "https://assets.ppy.sh/beatmaps/371128/covers/slimcover.jpg?1650634565",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/371128/covers/slimcover@2x.jpg?1650634565"
-        },
-        "creator": "Bearizm",
-        "favourite_count": 18697,
-        "genre_id": 10,
-        "hype": null,
-        "id": 371128,
-        "language_id": 2,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 43760804,
-        "preview_url": "//b.ppy.sh/preview/371128.mp3",
-        "source": "",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Cold Green Eyes ft. Roos Denayer",
-        "title_unicode": "Cold Green Eyes ft. Roos Denayer",
-        "track_id": 1861,
-        "user_id": 3495259,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 90.25,
-        "pp": 41.89016925
-      },
-      "index": 3,
-      "difficulty_rating_str": "4.20",
-      "pp_str": "46.4157",
-      "weight_pp_str": "41.8902",
-      "accuracy_100_str": "94.58"
-    },
-    {
-      "classic_total_score": 2247760,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 333,
-        "legacy_combo_increase": 141
-      },
-      "mods": [
-        {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 33,
-        "miss": 7,
-        "great": 293
-      },
-      "total_score_without_mods": 630828,
-      "beatmap_id": 1621175,
-      "best_id": null,
-      "id": 4913448660,
-      "rank": "A",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.912913,
-      "build_id": null,
-      "ended_at": "2025-05-28T14:28:01Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4844207625,
-      "legacy_total_score": 2011278,
-      "max_combo": 340,
-      "passed": true,
-      "pp": 44.9869,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 605595,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 770300,
-        "difficulty_rating": 4.61,
-        "id": 1621175,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 86,
-        "user_id": 2506267,
-        "version": "NiNo's Insane",
-        "accuracy": 8,
-        "ar": 9,
-        "bpm": 175,
-        "convert": false,
-        "count_circles": 205,
-        "count_sliders": 128,
-        "count_spinners": 0,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 5,
-        "hit_length": 86,
-        "is_scoreable": true,
-        "last_updated": "2018-05-16T12:27:44Z",
-        "mode_int": 0,
-        "passcount": 1914615,
-        "playcount": 8009199,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/1621175",
-        "checksum": "4f5a2606a6dd1753235b4be248586a63"
-      },
-      "beatmapset": {
-        "artist": "Aitsuki Nakuru",
-        "artist_unicode": "藍月なくる",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/770300/covers/cover.jpg?1650662945",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/770300/covers/cover@2x.jpg?1650662945",
-          "card": "https://assets.ppy.sh/beatmaps/770300/covers/card.jpg?1650662945",
-          "card@2x": "https://assets.ppy.sh/beatmaps/770300/covers/card@2x.jpg?1650662945",
-          "list": "https://assets.ppy.sh/beatmaps/770300/covers/list.jpg?1650662945",
-          "list@2x": "https://assets.ppy.sh/beatmaps/770300/covers/list@2x.jpg?1650662945",
-          "slimcover": "https://assets.ppy.sh/beatmaps/770300/covers/slimcover.jpg?1650662945",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/770300/covers/slimcover@2x.jpg?1650662945"
-        },
-        "creator": "Sotarks",
-        "favourite_count": 7589,
-        "genre_id": 4,
-        "hype": null,
-        "id": 770300,
-        "language_id": 3,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 35500725,
-        "preview_url": "//b.ppy.sh/preview/770300.mp3",
-        "source": "",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Monochrome Butterfly",
-        "title_unicode": "Monochrome Butterfly",
-        "track_id": 8483,
-        "user_id": 4452992,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 85.73749999999998,
-        "pp": 38.57064338749999
-      },
-      "index": 4,
-      "difficulty_rating_str": "4.61",
-      "pp_str": "44.9869",
-      "weight_pp_str": "38.5706",
-      "accuracy_100_str": "91.29"
-    },
-    {
-      "classic_total_score": 262926,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 122,
-        "legacy_combo_increase": 65
-      },
-      "mods": [
-        {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 18,
-        "miss": 1,
-        "great": 103
-      },
-      "total_score_without_mods": 468356,
-      "beatmap_id": 1961270,
-      "best_id": null,
-      "id": 4913048480,
-      "rank": "B",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.893443,
-      "build_id": null,
-      "ended_at": "2025-05-28T13:00:17Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4844160274,
-      "legacy_total_score": 128548,
-      "max_combo": 68,
-      "passed": true,
-      "pp": 44.9154,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 449622,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 938926,
-        "difficulty_rating": 4.36,
-        "id": 1961270,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 32,
-        "user_id": 5174427,
-        "version": "Insane",
-        "accuracy": 8.4,
-        "ar": 9,
-        "bpm": 179,
-        "convert": false,
-        "count_circles": 67,
-        "count_sliders": 55,
-        "count_spinners": 0,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 5.5,
-        "hit_length": 32,
-        "is_scoreable": true,
-        "last_updated": "2019-03-19T22:50:26Z",
-        "mode_int": 0,
-        "passcount": 782469,
-        "playcount": 3115170,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/1961270",
-        "checksum": "7d2749f1f2d4061eb88091ad42418072"
-      },
-      "beatmapset": {
-        "artist": "Tashiro Tomokazu",
-        "artist_unicode": "田代智一",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/938926/covers/cover.jpg?1650676686",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/938926/covers/cover@2x.jpg?1650676686",
-          "card": "https://assets.ppy.sh/beatmaps/938926/covers/card.jpg?1650676686",
-          "card@2x": "https://assets.ppy.sh/beatmaps/938926/covers/card@2x.jpg?1650676686",
-          "list": "https://assets.ppy.sh/beatmaps/938926/covers/list.jpg?1650676686",
-          "list@2x": "https://assets.ppy.sh/beatmaps/938926/covers/list@2x.jpg?1650676686",
-          "slimcover": "https://assets.ppy.sh/beatmaps/938926/covers/slimcover.jpg?1650676686",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/938926/covers/slimcover@2x.jpg?1650676686"
-        },
-        "creator": "DakiniBrave",
-        "favourite_count": 1238,
-        "genre_id": 3,
-        "hype": null,
-        "id": 938926,
-        "language_id": 5,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 13589640,
-        "preview_url": "//b.ppy.sh/preview/938926.mp3",
-        "source": "弱虫ペダル",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Koi no Hime Hime Pettanko (Karaoke)",
-        "title_unicode": "恋のヒメヒメぺったんこ (カラオケ)",
-        "track_id": null,
-        "user_id": 5174427,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 81.45062499999999,
-        "pp": 36.58387402124999
-      },
-      "index": 5,
-      "difficulty_rating_str": "4.36",
-      "pp_str": "44.9154",
-      "weight_pp_str": "36.5839",
-      "accuracy_100_str": "89.34"
-    },
-    {
-      "classic_total_score": 5028756,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 468,
-        "legacy_combo_increase": 278
-      },
-      "mods": [
-        {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 20,
-        "meh": 5,
-        "miss": 1,
-        "great": 442
-      },
-      "total_score_without_mods": 724159,
-      "beatmap_id": 846260,
-      "best_id": null,
-      "id": 4913562876,
-      "rank": "A",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.96047,
-      "build_id": null,
-      "ended_at": "2025-05-28T14:51:50Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4844221112,
-      "legacy_total_score": 3804554,
-      "max_combo": 425,
-      "passed": true,
-      "pp": 43.5699,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 695193,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 387784,
-        "difficulty_rating": 3.98,
-        "id": 846260,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 160,
-        "user_id": 2623222,
-        "version": "Crier's Hyper",
-        "accuracy": 6,
-        "ar": 8,
-        "bpm": 168,
-        "convert": false,
-        "count_circles": 234,
-        "count_sliders": 233,
-        "count_spinners": 1,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 5,
-        "hit_length": 148,
-        "is_scoreable": true,
-        "last_updated": "2016-01-12T05:55:02Z",
-        "mode_int": 0,
-        "passcount": 684503,
-        "playcount": 3330904,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/846260",
-        "checksum": "90235f58cf6d047fc733564001beef27"
-      },
-      "beatmapset": {
-        "artist": "Shawn Wasabi",
-        "artist_unicode": "Shawn Wasabi",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/387784/covers/cover.jpg?1650635195",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/387784/covers/cover@2x.jpg?1650635195",
-          "card": "https://assets.ppy.sh/beatmaps/387784/covers/card.jpg?1650635195",
-          "card@2x": "https://assets.ppy.sh/beatmaps/387784/covers/card@2x.jpg?1650635195",
-          "list": "https://assets.ppy.sh/beatmaps/387784/covers/list.jpg?1650635195",
-          "list@2x": "https://assets.ppy.sh/beatmaps/387784/covers/list@2x.jpg?1650635195",
-          "slimcover": "https://assets.ppy.sh/beatmaps/387784/covers/slimcover.jpg?1650635195",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/387784/covers/slimcover@2x.jpg?1650635195"
-        },
-        "creator": "Len",
-        "favourite_count": 7211,
-        "genre_id": 10,
-        "hype": null,
-        "id": 387784,
-        "language_id": 5,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 16154219,
-        "preview_url": "//b.ppy.sh/preview/387784.mp3",
-        "source": "",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Marble Soda",
-        "title_unicode": "Marble Soda",
-        "track_id": null,
-        "user_id": 1686145,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 77.37809374999998,
-        "pp": 33.71355806878124
-      },
-      "index": 6,
-      "difficulty_rating_str": "3.98",
-      "pp_str": "43.5699",
-      "weight_pp_str": "33.7136",
-      "accuracy_100_str": "96.05"
-    },
-    {
-      "classic_total_score": 1551653,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 315,
-        "legacy_combo_increase": 235
-      },
-      "mods": [
-        {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 35,
-        "meh": 4,
-        "miss": 3,
-        "great": 273
-      },
-      "total_score_without_mods": 485121,
-      "beatmap_id": 2103566,
-      "best_id": null,
-      "id": 4913066298,
-      "rank": "A",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.90582,
-      "build_id": null,
-      "ended_at": "2025-05-28T13:04:26Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4844162289,
-      "legacy_total_score": 730314,
-      "max_combo": 133,
-      "passed": true,
-      "pp": 42.8532,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 465716,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 1002716,
-        "difficulty_rating": 4.39,
-        "id": 2103566,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 112,
-        "user_id": 3723568,
-        "version": "Reform's Insane",
-        "accuracy": 8,
-        "ar": 9,
-        "bpm": 166.24,
-        "convert": false,
-        "count_circles": 133,
-        "count_sliders": 180,
-        "count_spinners": 2,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 5,
-        "hit_length": 105,
-        "is_scoreable": true,
-        "last_updated": "2019-07-27T05:14:49Z",
-        "mode_int": 0,
-        "passcount": 498753,
-        "playcount": 1918260,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/2103566",
-        "checksum": "57a22d8d0a2ed7de4adc6a760c3b34e5"
-      },
-      "beatmapset": {
-        "artist": "Digital Sexy",
-        "artist_unicode": "Digital Sexy",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/1002716/covers/cover.jpg?1650682754",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/1002716/covers/cover@2x.jpg?1650682754",
-          "card": "https://assets.ppy.sh/beatmaps/1002716/covers/card.jpg?1650682754",
-          "card@2x": "https://assets.ppy.sh/beatmaps/1002716/covers/card@2x.jpg?1650682754",
-          "list": "https://assets.ppy.sh/beatmaps/1002716/covers/list.jpg?1650682754",
-          "list@2x": "https://assets.ppy.sh/beatmaps/1002716/covers/list@2x.jpg?1650682754",
-          "slimcover": "https://assets.ppy.sh/beatmaps/1002716/covers/slimcover.jpg?1650682754",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/1002716/covers/slimcover@2x.jpg?1650682754"
-        },
-        "creator": "Sotarks",
-        "favourite_count": 2022,
-        "genre_id": 10,
-        "hype": null,
-        "id": 1002716,
-        "language_id": 2,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 6233490,
-        "preview_url": "//b.ppy.sh/preview/1002716.mp3",
-        "source": "",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Til Death (Nightcore Mix)",
-        "title_unicode": "Til Death (Nightcore Mix)",
-        "track_id": null,
-        "user_id": 4452992,
-        "video": false
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 73.50918906249998,
-        "pp": 31.501039807331242
-      },
-      "index": 7,
-      "difficulty_rating_str": "4.39",
-      "pp_str": "42.8532",
-      "weight_pp_str": "31.5010",
-      "accuracy_100_str": "90.58"
-    },
-    {
-      "classic_total_score": 6627794,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 504,
-        "legacy_combo_increase": 337
-      },
-      "mods": [
-        {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 8,
-        "meh": 3,
-        "miss": 1,
-        "great": 492
-      },
-      "total_score_without_mods": 824520,
-      "beatmap_id": 4098335,
-      "best_id": null,
-      "id": 4912997335,
-      "rank": "A",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.982474,
-      "build_id": null,
-      "ended_at": "2025-05-28T12:48:22Z",
+      "ended_at": "2025-04-26T15:54:03Z",
       "has_replay": true,
       "is_perfect_combo": false,
       "legacy_perfect": false,
-      "legacy_score_id": 4844154308,
-      "legacy_total_score": 6049792,
-      "max_combo": 595,
+      "legacy_score_id": 4824705187,
+      "legacy_total_score": 89731914,
+      "max_combo": 1829,
       "passed": true,
-      "pp": 39.251,
+      "pp": 2048.21,
       "ruleset_id": 0,
       "started_at": null,
-      "total_score": 791539,
+      "total_score": 874544,
       "replay": true,
       "current_user_attributes": {
         "pin": null
       },
       "beatmap": {
-        "beatmapset_id": 1614761,
-        "difficulty_rating": 3.71,
-        "id": 4098335,
+        "beatmapset_id": 2347113,
+        "difficulty_rating": 7.27,
+        "id": 5047712,
         "mode": "osu",
         "status": "ranked",
-        "total_length": 198,
-        "user_id": 13102983,
-        "version": "Hard",
-        "accuracy": 6,
-        "ar": 8,
-        "bpm": 172,
+        "total_length": 427,
+        "user_id": 10077431,
+        "version": "Collab Extra",
+        "accuracy": 9.8,
+        "ar": 9.8,
+        "bpm": 260,
         "convert": false,
-        "count_circles": 232,
-        "count_sliders": 271,
-        "count_spinners": 1,
-        "cs": 3.5,
+        "count_circles": 1121,
+        "count_sliders": 860,
+        "count_spinners": 4,
+        "cs": 3.6,
         "deleted_at": null,
         "drain": 5,
-        "hit_length": 188,
+        "hit_length": 402,
         "is_scoreable": true,
-        "last_updated": "2023-09-30T14:47:02Z",
+        "last_updated": "2025-04-11T21:55:45Z",
         "mode_int": 0,
-        "passcount": 1751,
-        "playcount": 5086,
+        "passcount": 30969,
+        "playcount": 243919,
         "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/4098335",
-        "checksum": "0b50fc89f04c37d244390647456ace36"
+        "url": "https://osu.ppy.sh/beatmaps/5047712",
+        "checksum": "9b0136d350ccf57afefe18615afc79d3"
       },
       "beatmapset": {
-        "artist": "onoken",
-        "artist_unicode": "onoken",
+        "artist": "Various Artists",
+        "artist_unicode": "Various Artists",
         "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/1614761/covers/cover.jpg?1696085237",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/1614761/covers/cover@2x.jpg?1696085237",
-          "card": "https://assets.ppy.sh/beatmaps/1614761/covers/card.jpg?1696085237",
-          "card@2x": "https://assets.ppy.sh/beatmaps/1614761/covers/card@2x.jpg?1696085237",
-          "list": "https://assets.ppy.sh/beatmaps/1614761/covers/list.jpg?1696085237",
-          "list@2x": "https://assets.ppy.sh/beatmaps/1614761/covers/list@2x.jpg?1696085237",
-          "slimcover": "https://assets.ppy.sh/beatmaps/1614761/covers/slimcover.jpg?1696085237",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/1614761/covers/slimcover@2x.jpg?1696085237"
+          "cover": "https://assets.ppy.sh/beatmaps/2347113/covers/cover.jpg?1744408567",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2347113/covers/cover@2x.jpg?1744408567",
+          "card": "https://assets.ppy.sh/beatmaps/2347113/covers/card.jpg?1744408567",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2347113/covers/card@2x.jpg?1744408567",
+          "list": "https://assets.ppy.sh/beatmaps/2347113/covers/list.jpg?1744408567",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2347113/covers/list@2x.jpg?1744408567",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2347113/covers/slimcover.jpg?1744408567",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2347113/covers/slimcover@2x.jpg?1744408567"
         },
-        "creator": "Surou",
-        "favourite_count": 54,
-        "genre_id": 10,
+        "creator": "Sotarks",
+        "favourite_count": 416,
+        "genre_id": 6,
         "hype": null,
-        "id": 1614761,
-        "language_id": 5,
+        "id": 2347113,
+        "language_id": 14,
         "nsfw": false,
         "offset": 0,
-        "play_count": 31046,
-        "preview_url": "//b.ppy.sh/preview/1614761.mp3",
+        "play_count": 352738,
+        "preview_url": "//b.ppy.sh/preview/2347113.mp3",
         "source": "",
         "spotlight": false,
         "status": "ranked",
-        "title": "F-mine",
-        "title_unicode": "F-mine",
+        "title": "Songs Compilation VI",
+        "title_unicode": "Songs Compilation VI",
         "track_id": null,
-        "user_id": 13102983,
+        "user_id": 4452992,
         "video": false
       },
       "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
         "default_group": "default",
-        "id": 29458962,
+        "id": 7562902,
         "is_active": true,
         "is_bot": false,
         "is_deleted": false,
         "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
         "profile_colour": null,
-        "username": "AoYukiii"
+        "username": "mrekk"
       },
       "weight": {
-        "percentage": 69.83372960937497,
-        "pp": 27.410437208975768
+        "percentage": 100,
+        "pp": 2048.21
       },
-      "index": 8,
-      "difficulty_rating_str": "3.71",
-      "pp_str": "39.2510",
-      "weight_pp_str": "27.4104",
-      "accuracy_100_str": "98.25"
+      "index": 1,
+      "difficulty_rating_str": "7.27",
+      "pp_str": "2048.21",
+      "weight_pp_str": "2048.21",
+      "accuracy_100_str": "99.21"
     },
     {
-      "classic_total_score": 974842,
+      "classic_total_score": 7679477,
       "preserve": true,
       "processed": true,
       "ranked": true,
       "maximum_statistics": {
-        "great": 257,
-        "legacy_combo_increase": 120
+        "great": 575,
+        "legacy_combo_increase": 170
       },
       "mods": [
         {
-          "acronym": "CL"
-        }
-      ],
-      "statistics": {
-        "ok": 32,
-        "meh": 2,
-        "miss": 7,
-        "great": 216
-      },
-      "total_score_without_mods": 451072,
-      "beatmap_id": 1971795,
-      "best_id": null,
-      "id": 4913420430,
-      "rank": "B",
-      "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.883268,
-      "build_id": null,
-      "ended_at": "2025-05-28T14:22:10Z",
-      "has_replay": false,
-      "is_perfect_combo": false,
-      "legacy_perfect": false,
-      "legacy_score_id": 4844204326,
-      "legacy_total_score": 495858,
-      "max_combo": 111,
-      "passed": true,
-      "pp": 39.1446,
-      "ruleset_id": 0,
-      "started_at": null,
-      "total_score": 433029,
-      "replay": false,
-      "current_user_attributes": {
-        "pin": null
-      },
-      "beatmap": {
-        "beatmapset_id": 942642,
-        "difficulty_rating": 4.59,
-        "id": 1971795,
-        "mode": "osu",
-        "status": "ranked",
-        "total_length": 88,
-        "user_id": 5712451,
-        "version": "Shiinoha's Insane",
-        "accuracy": 8,
-        "ar": 9,
-        "bpm": 178,
-        "convert": false,
-        "count_circles": 148,
-        "count_sliders": 107,
-        "count_spinners": 2,
-        "cs": 4,
-        "deleted_at": null,
-        "drain": 5,
-        "hit_length": 88,
-        "is_scoreable": true,
-        "last_updated": "2019-05-07T01:39:33Z",
-        "mode_int": 0,
-        "passcount": 872127,
-        "playcount": 3535038,
-        "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/1971795",
-        "checksum": "93da05f55455f476c894b1c4a4ada7a7"
-      },
-      "beatmapset": {
-        "artist": "Nanahira",
-        "artist_unicode": "ななひら",
-        "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/942642/covers/cover.jpg?1650677241",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/942642/covers/cover@2x.jpg?1650677241",
-          "card": "https://assets.ppy.sh/beatmaps/942642/covers/card.jpg?1650677241",
-          "card@2x": "https://assets.ppy.sh/beatmaps/942642/covers/card@2x.jpg?1650677241",
-          "list": "https://assets.ppy.sh/beatmaps/942642/covers/list.jpg?1650677241",
-          "list@2x": "https://assets.ppy.sh/beatmaps/942642/covers/list@2x.jpg?1650677241",
-          "slimcover": "https://assets.ppy.sh/beatmaps/942642/covers/slimcover.jpg?1650677241",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/942642/covers/slimcover@2x.jpg?1650677241"
+          "acronym": "DT"
         },
-        "creator": "Agatsu",
-        "favourite_count": 5773,
-        "genre_id": 3,
-        "hype": null,
-        "id": 942642,
-        "language_id": 3,
-        "nsfw": false,
-        "offset": 0,
-        "play_count": 28087335,
-        "preview_url": "//b.ppy.sh/preview/942642.mp3",
-        "source": "Kaguya-sama: Love Is War",
-        "spotlight": false,
-        "status": "ranked",
-        "title": "Chikatto Chika Chika",
-        "title_unicode": "チカっとチカ千花っ♡",
-        "track_id": null,
-        "user_id": 5579871,
-        "video": true
-      },
-      "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
-        "default_group": "default",
-        "id": 29458962,
-        "is_active": true,
-        "is_bot": false,
-        "is_deleted": false,
-        "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
-        "profile_colour": null,
-        "username": "AoYukiii"
-      },
-      "weight": {
-        "percentage": 66.34204312890623,
-        "pp": 25.969327414637824
-      },
-      "index": 9,
-      "difficulty_rating_str": "4.59",
-      "pp_str": "39.1446",
-      "weight_pp_str": "25.9693",
-      "accuracy_100_str": "88.33"
-    },
-    {
-      "classic_total_score": 1768295,
-      "preserve": true,
-      "processed": true,
-      "ranked": true,
-      "maximum_statistics": {
-        "great": 245,
-        "legacy_combo_increase": 162
-      },
-      "mods": [
+        {
+          "acronym": "HD"
+        },
         {
           "acronym": "CL"
         }
       ],
       "statistics": {
         "ok": 12,
-        "meh": 1,
-        "great": 232
+        "miss": 6,
+        "great": 557
       },
-      "total_score_without_mods": 896331,
-      "beatmap_id": 2014468,
+      "total_score_without_mods": 631239,
+      "beatmap_id": 4921872,
       "best_id": null,
-      "id": 4913257384,
-      "rank": "S",
+      "id": 4460552935,
+      "rank": "A",
       "type": "solo_score",
-      "user_id": 29458962,
-      "accuracy": 0.963946,
+      "user_id": 7562902,
+      "accuracy": 0.975652,
       "build_id": null,
-      "ended_at": "2025-05-28T13:47:07Z",
+      "ended_at": "2025-03-05T08:02:57Z",
+      "has_replay": true,
+      "is_perfect_combo": false,
+      "legacy_perfect": false,
+      "legacy_score_id": 4791453257,
+      "legacy_total_score": 2789907,
+      "max_combo": 207,
+      "passed": true,
+      "pp": 1774.15,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 706584,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 2302766,
+        "difficulty_rating": 8.05,
+        "id": 4921872,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 92,
+        "user_id": 10827686,
+        "version": "The Game of Video Quick Draw",
+        "accuracy": 9.8,
+        "ar": 10,
+        "bpm": 128.78,
+        "convert": false,
+        "count_circles": 411,
+        "count_sliders": 164,
+        "count_spinners": 0,
+        "cs": 4,
+        "deleted_at": null,
+        "drain": 5,
+        "hit_length": 92,
+        "is_scoreable": true,
+        "last_updated": "2025-02-27T23:18:41Z",
+        "mode_int": 0,
+        "passcount": 24126,
+        "playcount": 231283,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/4921872",
+        "checksum": "472bea2cf52ad85d885ea55b64e2c13d"
+      },
+      "beatmapset": {
+        "artist": "Tim Follin",
+        "artist_unicode": "Tim Follin",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/2302766/covers/cover.jpg?1740698335",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/cover@2x.jpg?1740698335",
+          "card": "https://assets.ppy.sh/beatmaps/2302766/covers/card.jpg?1740698335",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/card@2x.jpg?1740698335",
+          "list": "https://assets.ppy.sh/beatmaps/2302766/covers/list.jpg?1740698335",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/list@2x.jpg?1740698335",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2302766/covers/slimcover.jpg?1740698335",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/slimcover@2x.jpg?1740698335"
+        },
+        "creator": "Mekadon",
+        "favourite_count": 237,
+        "genre_id": 2,
+        "hype": null,
+        "id": 2302766,
+        "language_id": 5,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 1119220,
+        "preview_url": "//b.ppy.sh/preview/2302766.mp3",
+        "source": "Pictionary",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Title Screen",
+        "title_unicode": "Title Screen",
+        "track_id": null,
+        "user_id": 10827686,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 95,
+        "pp": 1685.4425
+      },
+      "index": 2,
+      "difficulty_rating_str": "8.05",
+      "pp_str": "1774.15",
+      "weight_pp_str": "1685.44",
+      "accuracy_100_str": "97.57"
+    },
+    {
+      "classic_total_score": 378283799,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 3260,
+        "legacy_combo_increase": 1052
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 39,
+        "great": 3221
+      },
+      "beatmap_id": 1811527,
+      "best_id": null,
+      "id": 3427873257,
+      "rank": "SH",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.992025,
+      "build_id": null,
+      "ended_at": "2024-08-30T09:49:59Z",
+      "has_replay": true,
+      "is_perfect_combo": false,
+      "legacy_perfect": false,
+      "legacy_score_id": 4676230317,
+      "legacy_total_score": 389718226,
+      "max_combo": 4310,
+      "passed": true,
+      "pp": 1768.36,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 1092545,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 866472,
+        "difficulty_rating": 6.55,
+        "id": 1811527,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 652,
+        "user_id": 11865173,
+        "version": "Nightmare",
+        "accuracy": 8.7,
+        "ar": 9.5,
+        "bpm": 190,
+        "convert": false,
+        "count_circles": 2280,
+        "count_sliders": 977,
+        "count_spinners": 3,
+        "cs": 4,
+        "deleted_at": null,
+        "drain": 5,
+        "hit_length": 639,
+        "is_scoreable": true,
+        "last_updated": "2018-12-25T19:58:52Z",
+        "mode_int": 0,
+        "passcount": 144549,
+        "playcount": 2013039,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/1811527",
+        "checksum": "9e94c9788c1fec32a83cf223c1f9f01d"
+      },
+      "beatmapset": {
+        "artist": "Avenged Sevenfold",
+        "artist_unicode": "Avenged Sevenfold",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/866472/covers/cover.jpg?1622149359",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/866472/covers/cover@2x.jpg?1622149359",
+          "card": "https://assets.ppy.sh/beatmaps/866472/covers/card.jpg?1622149359",
+          "card@2x": "https://assets.ppy.sh/beatmaps/866472/covers/card@2x.jpg?1622149359",
+          "list": "https://assets.ppy.sh/beatmaps/866472/covers/list.jpg?1622149359",
+          "list@2x": "https://assets.ppy.sh/beatmaps/866472/covers/list@2x.jpg?1622149359",
+          "slimcover": "https://assets.ppy.sh/beatmaps/866472/covers/slimcover.jpg?1622149359",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/866472/covers/slimcover@2x.jpg?1622149359"
+        },
+        "creator": "Sersh4nt",
+        "favourite_count": 1292,
+        "genre_id": 11,
+        "hype": null,
+        "id": 866472,
+        "language_id": 2,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 2013039,
+        "preview_url": "//b.ppy.sh/preview/866472.mp3",
+        "source": "",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Save Me",
+        "title_unicode": "Save Me",
+        "track_id": null,
+        "user_id": 11865173,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 90.25,
+        "pp": 1595.9449
+      },
+      "index": 3,
+      "difficulty_rating_str": "6.55",
+      "pp_str": "1768.36",
+      "weight_pp_str": "1595.94",
+      "accuracy_100_str": "99.20"
+    },
+    {
+      "classic_total_score": 6851972,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 439,
+        "legacy_combo_increase": 151
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 9,
+        "great": 430
+      },
+      "total_score_without_mods": 959919,
+      "beatmap_id": 4808501,
+      "best_id": null,
+      "id": 4101568114,
+      "rank": "SH",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.986333,
+      "build_id": null,
+      "ended_at": "2024-12-31T02:27:43Z",
+      "has_replay": true,
+      "is_perfect_combo": true,
+      "legacy_perfect": true,
+      "legacy_score_id": 4748591273,
+      "legacy_total_score": 7682292,
+      "max_combo": 590,
+      "passed": true,
+      "pp": 1699.87,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 1074495,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 2250663,
+        "difficulty_rating": 7.49,
+        "id": 4808501,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 103,
+        "user_id": 10077431,
+        "version": "Plasma's Extreme",
+        "accuracy": 9.7,
+        "ar": 9.7,
+        "bpm": 230,
+        "convert": false,
+        "count_circles": 296,
+        "count_sliders": 142,
+        "count_spinners": 1,
+        "cs": 3.6,
+        "deleted_at": null,
+        "drain": 4.5,
+        "hit_length": 86,
+        "is_scoreable": true,
+        "last_updated": "2024-12-19T19:22:47Z",
+        "mode_int": 0,
+        "passcount": 33621,
+        "playcount": 229213,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/4808501",
+        "checksum": "e29105545ccaeaf23c9cb41deb6c40ac"
+      },
+      "beatmapset": {
+        "artist": "Yousei Teikoku",
+        "artist_unicode": "妖精帝國",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/2250663/covers/cover.jpg?1734636186",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/cover@2x.jpg?1734636186",
+          "card": "https://assets.ppy.sh/beatmaps/2250663/covers/card.jpg?1734636186",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/card@2x.jpg?1734636186",
+          "list": "https://assets.ppy.sh/beatmaps/2250663/covers/list.jpg?1734636186",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/list@2x.jpg?1734636186",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2250663/covers/slimcover.jpg?1734636186",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/slimcover@2x.jpg?1734636186"
+        },
+        "creator": "kolman",
+        "favourite_count": 861,
+        "genre_id": 4,
+        "hype": null,
+        "id": 2250663,
+        "language_id": 3,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 3954377,
+        "preview_url": "//b.ppy.sh/preview/2250663.mp3",
+        "source": "",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Zetsubou plantation (Cut Ver.)",
+        "title_unicode": "絶望plantation (Cut Ver.)",
+        "track_id": null,
+        "user_id": 19334055,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 85.73749999999998,
+        "pp": 1457.4260412499998
+      },
+      "index": 4,
+      "difficulty_rating_str": "7.49",
+      "pp_str": "1699.87",
+      "weight_pp_str": "1457.43",
+      "accuracy_100_str": "98.63"
+    },
+    {
+      "classic_total_score": 1138754,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 197,
+        "legacy_combo_increase": 64
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HR"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 6,
+        "miss": 3,
+        "great": 188
+      },
+      "total_score_without_mods": 703618,
+      "beatmap_id": 4874327,
+      "best_id": null,
+      "id": 4792182333,
+      "rank": "A",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.964467,
+      "build_id": null,
+      "ended_at": "2025-05-04T21:09:00Z",
       "has_replay": false,
       "is_perfect_combo": false,
       "legacy_perfect": false,
-      "legacy_score_id": 4844184783,
-      "legacy_total_score": 2458336,
-      "max_combo": 406,
+      "legacy_score_id": 4830066426,
+      "legacy_total_score": 812412,
+      "max_combo": 150,
       "passed": true,
-      "pp": 35.8346,
+      "pp": 1692.89,
       "ruleset_id": 0,
       "started_at": null,
-      "total_score": 860478,
+      "total_score": 834858,
       "replay": false,
       "current_user_attributes": {
         "pin": null
       },
       "beatmap": {
-        "beatmapset_id": 962088,
-        "difficulty_rating": 3.57,
-        "id": 2014468,
+        "beatmapset_id": 2285243,
+        "difficulty_rating": 7.64,
+        "id": 4874327,
         "mode": "osu",
         "status": "ranked",
-        "total_length": 83,
-        "user_id": 4378277,
-        "version": "Hard",
-        "accuracy": 6,
-        "ar": 8,
-        "bpm": 182,
+        "total_length": 51,
+        "user_id": 8357007,
+        "version": "No Return",
+        "accuracy": 9.7,
+        "ar": 9.8,
+        "bpm": 250,
         "convert": false,
-        "count_circles": 108,
-        "count_sliders": 136,
-        "count_spinners": 1,
-        "cs": 3.2,
+        "count_circles": 136,
+        "count_sliders": 61,
+        "count_spinners": 0,
+        "cs": 4,
         "deleted_at": null,
-        "drain": 4.5,
-        "hit_length": 83,
+        "drain": 5.5,
+        "hit_length": 33,
         "is_scoreable": true,
-        "last_updated": "2019-05-06T00:13:16Z",
+        "last_updated": "2025-01-11T21:50:07Z",
         "mode_int": 0,
-        "passcount": 1068966,
-        "playcount": 3578796,
+        "passcount": 73510,
+        "playcount": 454348,
         "ranked": 1,
-        "url": "https://osu.ppy.sh/beatmaps/2014468",
-        "checksum": "d43049866b57f27225b218806333245d"
+        "url": "https://osu.ppy.sh/beatmaps/4874327",
+        "checksum": "d7827567165aab8ae72673f71d7ceec1"
       },
       "beatmapset": {
-        "artist": "MIMI feat. Hatsune Miku",
-        "artist_unicode": "MIMI feat. 初音ミク",
+        "artist": "Jeff Williams feat. Casey Lee Williams",
+        "artist_unicode": "Jeff Williams feat. Casey Lee Williams",
         "covers": {
-          "cover": "https://assets.ppy.sh/beatmaps/962088/covers/cover.jpg?1645788534",
-          "cover@2x": "https://assets.ppy.sh/beatmaps/962088/covers/cover@2x.jpg?1645788534",
-          "card": "https://assets.ppy.sh/beatmaps/962088/covers/card.jpg?1645788534",
-          "card@2x": "https://assets.ppy.sh/beatmaps/962088/covers/card@2x.jpg?1645788534",
-          "list": "https://assets.ppy.sh/beatmaps/962088/covers/list.jpg?1645788534",
-          "list@2x": "https://assets.ppy.sh/beatmaps/962088/covers/list@2x.jpg?1645788534",
-          "slimcover": "https://assets.ppy.sh/beatmaps/962088/covers/slimcover.jpg?1645788534",
-          "slimcover@2x": "https://assets.ppy.sh/beatmaps/962088/covers/slimcover@2x.jpg?1645788534"
+          "cover": "https://assets.ppy.sh/beatmaps/2285243/covers/cover.jpg?1736632238",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/cover@2x.jpg?1736632238",
+          "card": "https://assets.ppy.sh/beatmaps/2285243/covers/card.jpg?1736632238",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/card@2x.jpg?1736632238",
+          "list": "https://assets.ppy.sh/beatmaps/2285243/covers/list.jpg?1736632238",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/list@2x.jpg?1736632238",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2285243/covers/slimcover.jpg?1736632238",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/slimcover@2x.jpg?1736632238"
         },
-        "creator": "Log Off Now",
-        "favourite_count": 11070,
-        "genre_id": 5,
+        "creator": "My Angel Ram",
+        "favourite_count": 744,
+        "genre_id": 4,
         "hype": null,
-        "id": 962088,
-        "language_id": 3,
+        "id": 2285243,
+        "language_id": 2,
         "nsfw": false,
         "offset": 0,
-        "play_count": 36690588,
-        "preview_url": "//b.ppy.sh/preview/962088.mp3",
-        "source": "",
+        "play_count": 5408522,
+        "preview_url": "//b.ppy.sh/preview/2285243.mp3",
+        "source": "RWBY",
         "spotlight": false,
         "status": "ranked",
-        "title": "Marshmary",
-        "title_unicode": "マシュマリー",
-        "track_id": 2079,
-        "user_id": 4378277,
+        "title": "Time to Say Goodbye (TV Size)",
+        "title_unicode": "Time to Say Goodbye (TV Size)",
+        "track_id": null,
+        "user_id": 8357007,
         "video": false
       },
       "user": {
-        "avatar_url": "https://a.ppy.sh/29458962?1747930993.jpeg",
-        "country_code": "CN",
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
         "default_group": "default",
-        "id": 29458962,
+        "id": 7562902,
         "is_active": true,
         "is_bot": false,
         "is_deleted": false,
         "is_online": false,
-        "is_supporter": false,
-        "last_visit": "2025-05-30T06:07:59+00:00",
-        "pm_friends_only": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
         "profile_colour": null,
-        "username": "AoYukiii"
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 81.45062499999999,
+        "pp": 1378.8694855625
+      },
+      "index": 5,
+      "difficulty_rating_str": "7.64",
+      "pp_str": "1692.89",
+      "weight_pp_str": "1378.87",
+      "accuracy_100_str": "96.45"
+    },
+    {
+      "classic_total_score": 1221609,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 192,
+        "legacy_combo_increase": 67
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HR"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 7,
+        "miss": 1,
+        "great": 184
+      },
+      "total_score_without_mods": 791576,
+      "beatmap_id": 4925156,
+      "best_id": null,
+      "id": 4792177834,
+      "rank": "A",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.970486,
+      "build_id": null,
+      "ended_at": "2025-05-04T21:07:54Z",
+      "has_replay": true,
+      "is_perfect_combo": false,
+      "legacy_perfect": false,
+      "legacy_score_id": 4830065848,
+      "legacy_total_score": 1075577,
+      "max_combo": 169,
+      "passed": true,
+      "pp": 1680.82,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 939222,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 2285243,
+        "difficulty_rating": 7.46,
+        "id": 4925156,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 51,
+        "user_id": 3723568,
+        "version": "Reform's Extreme",
+        "accuracy": 9.7,
+        "ar": 9.8,
+        "bpm": 250,
+        "convert": false,
+        "count_circles": 128,
+        "count_sliders": 64,
+        "count_spinners": 0,
+        "cs": 3.8,
+        "deleted_at": null,
+        "drain": 5.4,
+        "hit_length": 33,
+        "is_scoreable": true,
+        "last_updated": "2025-01-11T21:50:15Z",
+        "mode_int": 0,
+        "passcount": 49160,
+        "playcount": 271387,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/4925156",
+        "checksum": "e6a80dcee8227d5d50d0c56d56c7d88b"
+      },
+      "beatmapset": {
+        "artist": "Jeff Williams feat. Casey Lee Williams",
+        "artist_unicode": "Jeff Williams feat. Casey Lee Williams",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/2285243/covers/cover.jpg?1736632238",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/cover@2x.jpg?1736632238",
+          "card": "https://assets.ppy.sh/beatmaps/2285243/covers/card.jpg?1736632238",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/card@2x.jpg?1736632238",
+          "list": "https://assets.ppy.sh/beatmaps/2285243/covers/list.jpg?1736632238",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/list@2x.jpg?1736632238",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2285243/covers/slimcover.jpg?1736632238",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2285243/covers/slimcover@2x.jpg?1736632238"
+        },
+        "creator": "My Angel Ram",
+        "favourite_count": 744,
+        "genre_id": 4,
+        "hype": null,
+        "id": 2285243,
+        "language_id": 2,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 5408522,
+        "preview_url": "//b.ppy.sh/preview/2285243.mp3",
+        "source": "RWBY",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Time to Say Goodbye (TV Size)",
+        "title_unicode": "Time to Say Goodbye (TV Size)",
+        "track_id": null,
+        "user_id": 8357007,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 77.37809374999998,
+        "pp": 1300.5864753687495
+      },
+      "index": 6,
+      "difficulty_rating_str": "7.46",
+      "pp_str": "1680.82",
+      "weight_pp_str": "1300.59",
+      "accuracy_100_str": "97.05"
+    },
+    {
+      "classic_total_score": 7428300,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 450,
+        "legacy_combo_increase": 145
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 2,
+        "great": 448
+      },
+      "total_score_without_mods": 991155,
+      "beatmap_id": 4810017,
+      "best_id": null,
+      "id": 4101934228,
+      "rank": "SH",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.997037,
+      "build_id": null,
+      "ended_at": "2024-12-31T04:25:15Z",
+      "has_replay": true,
+      "is_perfect_combo": true,
+      "legacy_perfect": true,
+      "legacy_score_id": 4748635397,
+      "legacy_total_score": 8043276,
+      "max_combo": 595,
+      "passed": true,
+      "pp": 1654.65,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 1109459,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 2250663,
+        "difficulty_rating": 7.41,
+        "id": 4810017,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 102,
+        "user_id": 6174349,
+        "version": "Kuki's Extreme",
+        "accuracy": 9.4,
+        "ar": 9.6,
+        "bpm": 230,
+        "convert": false,
+        "count_circles": 308,
+        "count_sliders": 140,
+        "count_spinners": 2,
+        "cs": 3.8,
+        "deleted_at": null,
+        "drain": 4.8,
+        "hit_length": 85,
+        "is_scoreable": true,
+        "last_updated": "2024-12-19T19:22:47Z",
+        "mode_int": 0,
+        "passcount": 34073,
+        "playcount": 227827,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/4810017",
+        "checksum": "7123668a81f6db12b3dac7bb6774a375"
+      },
+      "beatmapset": {
+        "artist": "Yousei Teikoku",
+        "artist_unicode": "妖精帝國",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/2250663/covers/cover.jpg?1734636186",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/cover@2x.jpg?1734636186",
+          "card": "https://assets.ppy.sh/beatmaps/2250663/covers/card.jpg?1734636186",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/card@2x.jpg?1734636186",
+          "list": "https://assets.ppy.sh/beatmaps/2250663/covers/list.jpg?1734636186",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/list@2x.jpg?1734636186",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2250663/covers/slimcover.jpg?1734636186",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2250663/covers/slimcover@2x.jpg?1734636186"
+        },
+        "creator": "kolman",
+        "favourite_count": 861,
+        "genre_id": 4,
+        "hype": null,
+        "id": 2250663,
+        "language_id": 3,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 3954377,
+        "preview_url": "//b.ppy.sh/preview/2250663.mp3",
+        "source": "",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Zetsubou plantation (Cut Ver.)",
+        "title_unicode": "絶望plantation (Cut Ver.)",
+        "track_id": null,
+        "user_id": 19334055,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 73.50918906249998,
+        "pp": 1216.319796822656
+      },
+      "index": 7,
+      "difficulty_rating_str": "7.41",
+      "pp_str": "1654.65",
+      "weight_pp_str": "1216.32",
+      "accuracy_100_str": "99.70"
+    },
+    {
+      "classic_total_score": 354101160,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 3201,
+        "legacy_combo_increase": 1094
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 85,
+        "meh": 1,
+        "great": 3115
+      },
+      "beatmap_id": 1256809,
+      "best_id": null,
+      "id": 3423842048,
+      "rank": "SH",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.982037,
+      "build_id": null,
+      "ended_at": "2024-08-29T16:07:35Z",
+      "has_replay": true,
+      "is_perfect_combo": false,
+      "legacy_perfect": false,
+      "legacy_score_id": 4675903965,
+      "legacy_total_score": 475352716,
+      "max_combo": 4292,
+      "passed": true,
+      "pp": 1650.03,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 1060738,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 594170,
+        "difficulty_rating": 6.48,
+        "id": 1256809,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 652,
+        "user_id": 4102249,
+        "version": "Tragedy",
+        "accuracy": 8.8,
+        "ar": 9.5,
+        "bpm": 190,
+        "convert": false,
+        "count_circles": 2195,
+        "count_sliders": 1003,
+        "count_spinners": 3,
+        "cs": 4,
+        "deleted_at": null,
+        "drain": 5.5,
+        "hit_length": 640,
+        "is_scoreable": true,
+        "last_updated": "2017-07-22T06:20:29Z",
+        "mode_int": 0,
+        "passcount": 312084,
+        "playcount": 5734637,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/1256809",
+        "checksum": "cc4cbed3121f14b7d59ccc3d8164ae71"
+      },
+      "beatmapset": {
+        "artist": "Avenged Sevenfold",
+        "artist_unicode": "Avenged Sevenfold",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/594170/covers/cover.jpg?1622117225",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/594170/covers/cover@2x.jpg?1622117225",
+          "card": "https://assets.ppy.sh/beatmaps/594170/covers/card.jpg?1622117225",
+          "card@2x": "https://assets.ppy.sh/beatmaps/594170/covers/card@2x.jpg?1622117225",
+          "list": "https://assets.ppy.sh/beatmaps/594170/covers/list.jpg?1622117225",
+          "list@2x": "https://assets.ppy.sh/beatmaps/594170/covers/list@2x.jpg?1622117225",
+          "slimcover": "https://assets.ppy.sh/beatmaps/594170/covers/slimcover.jpg?1622117225",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/594170/covers/slimcover@2x.jpg?1622117225"
+        },
+        "creator": "Drummer",
+        "favourite_count": 4120,
+        "genre_id": 11,
+        "hype": null,
+        "id": 594170,
+        "language_id": 2,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 5734637,
+        "preview_url": "//b.ppy.sh/preview/594170.mp3",
+        "source": "",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Save Me",
+        "title_unicode": "Save Me",
+        "track_id": null,
+        "user_id": 4102249,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 69.83372960937497,
+        "pp": 1152.27748867357
+      },
+      "index": 8,
+      "difficulty_rating_str": "6.48",
+      "pp_str": "1650.03",
+      "weight_pp_str": "1152.28",
+      "accuracy_100_str": "98.20"
+    },
+    {
+      "classic_total_score": 8239954,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 540,
+        "legacy_combo_increase": 191
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 8,
+        "miss": 1,
+        "great": 531
+      },
+      "total_score_without_mods": 767010,
+      "beatmap_id": 4926909,
+      "best_id": null,
+      "id": 4516687984,
+      "rank": "A",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.988272,
+      "build_id": null,
+      "ended_at": "2025-03-15T10:47:41Z",
+      "has_replay": true,
+      "is_perfect_combo": false,
+      "legacy_perfect": false,
+      "legacy_score_id": 4798020110,
+      "legacy_total_score": 5695673,
+      "max_combo": 394,
+      "passed": true,
+      "pp": 1641.06,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 858560,
+      "replay": true,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 2302766,
+        "difficulty_rating": 7.36,
+        "id": 4926909,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 92,
+        "user_id": 10827686,
+        "version": "Ultra",
+        "accuracy": 9.6,
+        "ar": 9.8,
+        "bpm": 128.78,
+        "convert": false,
+        "count_circles": 359,
+        "count_sliders": 181,
+        "count_spinners": 0,
+        "cs": 4,
+        "deleted_at": null,
+        "drain": 4.6,
+        "hit_length": 92,
+        "is_scoreable": true,
+        "last_updated": "2025-02-27T23:18:44Z",
+        "mode_int": 0,
+        "passcount": 25523,
+        "playcount": 219637,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/4926909",
+        "checksum": "caf8a4d92bc25df90829183626d026d2"
+      },
+      "beatmapset": {
+        "artist": "Tim Follin",
+        "artist_unicode": "Tim Follin",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/2302766/covers/cover.jpg?1740698335",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/cover@2x.jpg?1740698335",
+          "card": "https://assets.ppy.sh/beatmaps/2302766/covers/card.jpg?1740698335",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/card@2x.jpg?1740698335",
+          "list": "https://assets.ppy.sh/beatmaps/2302766/covers/list.jpg?1740698335",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/list@2x.jpg?1740698335",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2302766/covers/slimcover.jpg?1740698335",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2302766/covers/slimcover@2x.jpg?1740698335"
+        },
+        "creator": "Mekadon",
+        "favourite_count": 237,
+        "genre_id": 2,
+        "hype": null,
+        "id": 2302766,
+        "language_id": 5,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 1119220,
+        "preview_url": "//b.ppy.sh/preview/2302766.mp3",
+        "source": "Pictionary",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Title Screen",
+        "title_unicode": "Title Screen",
+        "track_id": null,
+        "user_id": 10827686,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
+      },
+      "weight": {
+        "percentage": 66.34204312890623,
+        "pp": 1088.7127329712284
+      },
+      "index": 9,
+      "difficulty_rating_str": "7.36",
+      "pp_str": "1641.06",
+      "weight_pp_str": "1088.71",
+      "accuracy_100_str": "98.83"
+    },
+    {
+      "classic_total_score": 20763057,
+      "preserve": true,
+      "processed": true,
+      "ranked": true,
+      "maximum_statistics": {
+        "great": 940,
+        "legacy_combo_increase": 393
+      },
+      "mods": [
+        {
+          "acronym": "DT"
+        },
+        {
+          "acronym": "HD"
+        },
+        {
+          "acronym": "CL"
+        }
+      ],
+      "statistics": {
+        "ok": 21,
+        "miss": 8,
+        "great": 911
+      },
+      "total_score_without_mods": 642305,
+      "beatmap_id": 4708805,
+      "best_id": null,
+      "id": 4796432643,
+      "rank": "A",
+      "type": "solo_score",
+      "user_id": 7562902,
+      "accuracy": 0.976596,
+      "build_id": null,
+      "ended_at": "2025-05-05T18:21:36Z",
+      "has_replay": false,
+      "is_perfect_combo": false,
+      "legacy_perfect": false,
+      "legacy_score_id": 4830566250,
+      "legacy_total_score": 6744527,
+      "max_combo": 330,
+      "passed": true,
+      "pp": 1634.91,
+      "ruleset_id": 0,
+      "started_at": null,
+      "total_score": 718971,
+      "replay": false,
+      "current_user_attributes": {
+        "pin": null
+      },
+      "beatmap": {
+        "beatmapset_id": 2205633,
+        "difficulty_rating": 7.99,
+        "id": 4708805,
+        "mode": "osu",
+        "status": "ranked",
+        "total_length": 203,
+        "user_id": 10077431,
+        "version": "Plasma's Expert",
+        "accuracy": 9.8,
+        "ar": 9.8,
+        "bpm": 255,
+        "convert": false,
+        "count_circles": 559,
+        "count_sliders": 381,
+        "count_spinners": 0,
+        "cs": 3.6,
+        "deleted_at": null,
+        "drain": 4,
+        "hit_length": 183,
+        "is_scoreable": true,
+        "last_updated": "2024-08-30T14:37:45Z",
+        "mode_int": 0,
+        "passcount": 18590,
+        "playcount": 206884,
+        "ranked": 1,
+        "url": "https://osu.ppy.sh/beatmaps/4708805",
+        "checksum": "86fd8d1120e022d48c9d8589012bae44"
+      },
+      "beatmapset": {
+        "artist": "Green Day",
+        "artist_unicode": "Green Day",
+        "covers": {
+          "cover": "https://assets.ppy.sh/beatmaps/2205633/covers/cover.jpg?1725028684",
+          "cover@2x": "https://assets.ppy.sh/beatmaps/2205633/covers/cover@2x.jpg?1725028684",
+          "card": "https://assets.ppy.sh/beatmaps/2205633/covers/card.jpg?1725028684",
+          "card@2x": "https://assets.ppy.sh/beatmaps/2205633/covers/card@2x.jpg?1725028684",
+          "list": "https://assets.ppy.sh/beatmaps/2205633/covers/list.jpg?1725028684",
+          "list@2x": "https://assets.ppy.sh/beatmaps/2205633/covers/list@2x.jpg?1725028684",
+          "slimcover": "https://assets.ppy.sh/beatmaps/2205633/covers/slimcover.jpg?1725028684",
+          "slimcover@2x": "https://assets.ppy.sh/beatmaps/2205633/covers/slimcover@2x.jpg?1725028684"
+        },
+        "creator": "Rita Summers",
+        "favourite_count": 861,
+        "genre_id": 4,
+        "hype": null,
+        "id": 2205633,
+        "language_id": 2,
+        "nsfw": false,
+        "offset": 0,
+        "play_count": 1334205,
+        "preview_url": "//b.ppy.sh/preview/2205633.mp3",
+        "source": "",
+        "spotlight": false,
+        "status": "ranked",
+        "title": "Bang Bang",
+        "title_unicode": "Bang Bang",
+        "track_id": null,
+        "user_id": 12416885,
+        "video": false
+      },
+      "user": {
+        "avatar_url": "https://a.ppy.sh/7562902?1747722070.jpeg",
+        "country_code": "AU",
+        "default_group": "default",
+        "id": 7562902,
+        "is_active": true,
+        "is_bot": false,
+        "is_deleted": false,
+        "is_online": false,
+        "is_supporter": true,
+        "last_visit": "2025-06-02T12:12:14+00:00",
+        "pm_friends_only": true,
+        "profile_colour": null,
+        "username": "mrekk"
       },
       "weight": {
         "percentage": 63.02494097246091,
-        "pp": 22.584735497717478
+        "pp": 1030.4010624528607
       },
       "index": 10,
-      "difficulty_rating_str": "3.57",
-      "pp_str": "35.8346",
-      "weight_pp_str": "22.5847",
-      "accuracy_100_str": "96.39"
+      "difficulty_rating_str": "7.99",
+      "pp_str": "1634.91",
+      "weight_pp_str": "1030.40",
+      "accuracy_100_str": "97.66"
     }
   ]
 }
