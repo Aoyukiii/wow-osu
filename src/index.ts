@@ -133,7 +133,6 @@ export async function apply(ctx: Context, config: Config) {
           mode: mode as Modes_names,
           user_details: user_details,
           best_plays: best_plays.map((play, index) => {
-            // TODO: add grade to best_plays
             return {
               ...play,
               index: index + 1,
@@ -146,10 +145,10 @@ export async function apply(ctx: Context, config: Config) {
           }),
         }
 
-        await fs.promises.writeFile(
-          __dirname + '/templates/player-stats.hbs.json',
-          JSON.stringify(player_stats, null, 2)
-        )
+        // await fs.promises.writeFile(
+        //   __dirname + '/templates/player-stats.hbs.json',
+        //   JSON.stringify(player_stats, null, 2)
+        // )
 
         // render template
         const html = await new TemplateReader().render('player-stats', player_stats)
