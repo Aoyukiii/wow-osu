@@ -20,6 +20,15 @@ export const name = 'wow-osu'
 export const inject = ['puppeteer']
 
 export async function apply(ctx: Context, config: Config) {
+  let svgs: { [key: string]: string }
+  try {
+    svgs = await loadSvgs()
+  } catch (err) {
+    ctx.logger.error('SVG loading error:', err.message)
+    return
+  }
+  ctx.logger.info('SVG loading successful.')
+
   try {
     await auth.login({
       type: 'v2',
@@ -32,6 +41,8 @@ export async function apply(ctx: Context, config: Config) {
       ctx.logger.error(
         'Authentication failed. Please check if your client ID and secret is correct.'
       )
+    } else {
+      ctx.logger.error('Authentication error:', error.message)
     }
     return
   }
@@ -53,26 +64,31 @@ export async function apply(ctx: Context, config: Config) {
           )
           user_data = JSON.parse(data)
         } catch (err) {
-          ctx.logger.error(err)
-          return '发生错误。'
+          ctx.logger.error('File read error:', err.message)
+          return '无法使用模板。'
         }
       }
 
-      const html = await new TemplateReader().render('player-stats', user_data)
+      try {
+        const html = await new TemplateReader().render('player-stats', user_data)
 
-      const page = await ctx.puppeteer.page()
-      await page.setContent(html)
-      await page.evaluate(async () => {
-        await document.fonts.ready
-      })
+        const page = await ctx.puppeteer.page()
+        await page.setContent(html)
+        await page.evaluate(async () => {
+          await document.fonts.ready
+        })
 
-      const element = await page.$('.screenshot')
-      const screenshot = await element.screenshot({
-        type: 'png',
-      })
-      await page.close()
+        const element = await page.$('.screenshot')
+        const screenshot = await element.screenshot({
+          type: 'png',
+        })
+        await page.close()
 
-      return h('div', h.quote(session.messageId), h.image(screenshot, 'image/png'))
+        return h('div', h.quote(session.messageId), h.image(screenshot, 'image/png'))
+      } catch (err) {
+        ctx.logger.error('Template rendering error:', err.message)
+        return '渲染失败。'
+      }
     })
 
   ctx.command('osu <username>', 'osu!指令').action(() => {
@@ -125,6 +141,7 @@ export async function apply(ctx: Context, config: Config) {
               pp_str: play.pp.toFixed(2),
               weight_pp_str: play.weight.pp.toFixed(2),
               accuracy_100_str: (play.accuracy * 100).toFixed(2),
+              grade_svg: svgs[getSvgName(play.rank)],
             }
           }),
         }
@@ -166,4 +183,8 @@ async function loadSvgs() {
     svgs[file_name.name.replace('.svg', '')] = svg_content
   }
   return svgs
+}
+
+function getSvgName(rank: string) {
+  return `Grade-${rank}`
 }

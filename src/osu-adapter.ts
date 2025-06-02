@@ -14,5 +14,6 @@ export interface PlayerStats {
     pp_str: string
     weight_pp_str: string
     accuracy_100_str: string
+    grade_svg: string
   })[]
 }
